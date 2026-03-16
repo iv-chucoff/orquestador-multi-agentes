@@ -1,0 +1,26 @@
+{
+  "timestamp": "20260316_193259_741678",
+  "query": "¿Podemos usar imágenes de internet en nuestros materiales de marketing?",
+  "domains": [
+    "legal"
+  ],
+  "latency_seconds": 2.75,
+  "agent_outputs": [
+    {
+      "domain": "legal",
+      "retrievers": [
+        "ante el Instituto Nacional de la Propiedad Industrial (INPI) en las clases 35, 38 y 42 del Nomenclador de Niza. El uso de la marca por parte de terceros (clientes, socios, medios) debe ajustarse a las Brand Guidelines publicadas en el portal de Marketing. Cualquier uso no autorizado o que pueda generar confusión en el mercado debe ser reportado al área Legal.\n\n=========================================\n4. CONTRATOS LABORALES Y RELACIONES CON EMPLEADOS\n=========================================\n\nEl área Legal elabora y revisa todos los contratos laborales, addendums, acuerdos de confidencialidad",
+        "Intercambio de información comercialmente sensible con competidores (precios, costos, estrategias, pipelines)\n- Prácticas de precios predatorios orientados a eliminar competidores del mercado\n- Condicionamiento de ventas a la adquisición de productos o servicios no deseados (ventas atadas)\n- Abuso de posición dominante si SolvNet alcanzara dicha posición en un mercado relevante\n\nLos empleados que participen en eventos de la industria, asociaciones sectoriales o cualquier instancia de contacto con competidores deben evitar toda conversación sobre precios, estrategias comerciales o condiciones",
+        "con un cliente por mi cuenta?\nNo. Todos los NDAs deben ser firmados por un apoderado de SolvNet. Podés utilizar el modelo estándar de NDA disponible en la carpeta de Legal en SharePoint. Si el cliente propone su propio modelo, debe ser revisado por Legal antes de la firma.\n\n¿Qué hago si recibo una carta documento?\nNo la respondas ni la rechaces. Fotocópiala y enviala de inmediato a legal@solvnet.com. El área Legal determinará la respuesta y los plazos aplicables.\n\n¿Podemos usar imágenes de internet en nuestros materiales de marketing?\nSolo si cuentan con licencia de uso comercial (Creative",
+        "si cuentan con licencia de uso comercial (Creative Commons CC0, CC BY, o similares) o si fueron adquiridas a través de los servicios de banco de imágenes con licencia contratados por Marketing. Ante la duda, consultá a Legal antes de usar.\n\n¿Cómo reporto una posible violación a la política de protección de datos?\nReportá de inmediato a privacidad@solvnet.com y a tu responsable directo. No intentes resolver el incidente de forma autónoma, ya que los plazos regulatorios son estrictos y requieren coordinación entre Legal e IT.\n\n=========================================\n8. GESTIÓN DE LICENCIAS DE"
+      ]
+    }
+  ],
+  "scores": {
+    "relevance": 1.0,
+    "completeness": 1.0,
+    "accuracy": 1.0,
+    "reasoning": "La respuesta aborda directamente la pregunta sobre el uso de imágenes de internet en materiales de marketing, explicando las condiciones necesarias para su uso y la importancia de consultar a Legal. Cubre todos los aspectos relevantes y la información proporcionada es correcta y consistente."
+  },
+  "final_answer": "Solo se pueden usar imágenes de internet en los materiales de marketing si cuentan con licencia de uso comercial (Creative Commons CC0, CC BY, o similares) o si fueron adquiridas a través de los servicios de banco de imágenes con licencia contratados por Marketing. Ante la duda, se debe consultar a Legal antes de usar."
+}

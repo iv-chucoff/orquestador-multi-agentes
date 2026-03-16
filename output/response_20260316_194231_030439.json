@@ -1,0 +1,26 @@
+{
+  "timestamp": "20260316_194231_030439",
+  "query": "que tipos de licencias tengo ? cuantos dias?",
+  "domains": [
+    "hr"
+  ],
+  "latency_seconds": 13.923,
+  "agent_outputs": [
+    {
+      "domain": "hr",
+      "retrievers": [
+        "llamada telefónica. Debe adjuntar certificado médico dentro de las 48 horas. HR validará el certificado y actualizará el registro en el HRMS. Los primeros tres días de enfermedad por año son con goce de sueldo sin necesidad de presentar certificado para empleados con más de 6 meses de antigüedad.\n\nLicencia por maternidad/paternidad: La licencia por maternidad es de 90 días corridos según el Artículo 177 de la Ley de Contrato de Trabajo. SolvNet amplía este beneficio con 15 días adicionales pagos como política interna. La licencia por paternidad es de 15 días corridos, también extendida a 30",
+        "paternidad es de 15 días corridos, también extendida a 30 días por política interna de la empresa. Para activar cualquiera de estas licencias, el empleado debe notificar a HR con al menos 30 días de anticipación salvo casos de urgencia médica debidamente acreditada.\n\nLicencia por fallecimiento de familiar: 3 días corridos para familiar directo (cónyuge, hijos, padres, hermanos). 1 día para familiar de segundo grado (abuelos, suegros, cuñados). Estos días se otorgan con goce de sueldo y no requieren compensación posterior.\n\nLicencia por examen: Los empleados que cursen estudios formales tienen",
+        "ordinaria anual: Los empleados con menos de 5 años de antigüedad tienen derecho a 14 días corridos de vacaciones por año. Entre 5 y 10 años, corresponden 21 días corridos. Entre 10 y 20 años, el período es de 28 días corridos. Con más de 20 años de antigüedad, el empleado tiene derecho a 35 días corridos de descanso anual.\n\nLicencia por enfermedad: El empleado que no pueda concurrir al trabajo por razones de salud debe notificar a su responsable directo antes del inicio de la jornada laboral mediante el canal de mensajería interna o llamada telefónica. Debe adjuntar certificado médico dentro",
+        "examen: Los empleados que cursen estudios formales tienen derecho a 10 días por año calendario para rendir exámenes, con un máximo de 2 días por examen. Se debe presentar constancia de examen con al menos 72 horas de anticipación. Este beneficio aplica a estudios de grado, posgrado, maestría y doctorado.\n\nLicencia por donación de sangre: El empleado que done sangre en forma voluntaria tiene derecho a medio día laboral remunerado el día de la donación, previa presentación de comprobante del banco de sangre.\n\n=========================================\n3. EVALUACIÓN DE"
+      ]
+    }
+  ],
+  "scores": {
+    "relevance": 1.0,
+    "completeness": 1.0,
+    "accuracy": 1.0,
+    "reasoning": "La respuesta aborda directamente la pregunta sobre los tipos de licencias y sus respectivas duraciones, proporcionando información detallada y específica sobre cada tipo de licencia. Además, la información presentada es correcta y consistente con las políticas laborales comunes, lo que respalda su precisión."
+  },
+  "final_answer": "Existen varios tipos de licencias disponibles para los empleados, cada una con una duración específica:\n\n1. **Licencia por maternidad**: 90 días corridos, con la posibilidad de 15 días adicionales pagos según la política interna.\n2. **Licencia por paternidad**: 15 días corridos, que pueden extenderse a 30 días bajo la política interna.\n3. **Licencia por fallecimiento de familiar**:\n   - 3 días corridos para familiares directos (cónyuge, hijos, padres, hermanos).\n   - 1 día para familiares de segundo grado (abuelos, suegros, cuñados).\n4. **Licencia por examen**: 10 días por año calendario para rendir exámenes, con un máximo de 2 días por examen, previa presentación de constancia con al menos 72 horas de anticipación.\n5. **Licencia por enfermedad**: Los primeros tres días de enfermedad son con goce de sueldo sin necesidad de presentar certificado para empleados con más de 6 meses de antigüedad. Después de esos días, se requiere notificación y presentación de un certificado médico.\n6. **Licencia por donación de sangre**: Medio día laboral remunerado el día de la donación, con la presentación de un comprobante del banco de sangre.\n\nAdemás, los empleados tienen derecho a vacaciones anuales que varían según su antigüedad:\n- Menos de 5 años: 14 días corridos.\n- Entre 5 y 10 años: 21 días corridos.\n- Entre 10 y 20 años: 28 días corridos.\n- Más de 20 años: 35 días corridos.\n\nPara solicitar cualquier tipo de licencia, es necesario ingresar al portal de autoservicio de HRMS, seleccionar \"Solicitud de licencia\", elegir el tipo y las fechas, y la solicitud se enviará automáticamente a tu responsable para su aprobación. Es importante realizar estas solicitudes con el tiempo necesario para su gestión adecuada."
+}

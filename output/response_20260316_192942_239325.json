@@ -1,0 +1,26 @@
+{
+  "timestamp": "20260316_192942_239325",
+  "query": "¿Cómo se carga un reembolso?",
+  "domains": [
+    "finance"
+  ],
+  "latency_seconds": 12.615,
+  "agent_outputs": [
+    {
+      "domain": "finance",
+      "retrievers": [
+        "=========================================\n1. GESTIÓN DE GASTOS Y REEMBOLSOS\n=========================================\n\nSolvNet SaaS reconoce los gastos operativos en que incurren los empleados en el ejercicio de sus funciones laborales, sujeto a las políticas y límites establecidos en este documento. Todo gasto debe contar con comprobante fiscal válido (factura A o B según corresponda) y ser registrado en la plataforma de gestión de gastos Concur dentro de los 30 días corridos de realizado.\n\nGastos elegibles para reembolso:\n- Viáticos por viajes de negocio aprobados (transporte, alojamiento,",
+        "por viajes de negocio aprobados (transporte, alojamiento, alimentación)\n- Material de oficina para trabajo remoto (hasta $5.000 mensuales sin aprobación adicional)\n- Libros y materiales de capacitación relacionados con el rol\n- Suscripciones a herramientas de trabajo aprobadas por IT\n- Gastos de representación con clientes (con autorización previa del responsable)\n\nProceso de reembolso:\n1. El empleado carga el gasto en Concur adjuntando el comprobante escaneado o fotografiado.\n2. El responsable directo aprueba o rechaza el gasto en Concur con comentario obligatorio en caso de rechazo.\n3.",
+        "por operación individual. Gastos que superen ese monto deben tramitarse por el proceso estándar de compras o reembolsos. Los faltantes de caja no justificados son responsabilidad del custodio y deben ser reintegrados dentro de las 48 horas de detectado el desvío.\n\n=========================================\n9. GESTIÓN DE INVERSIONES Y TESORERÍA\n=========================================\n\nEl área de Tesorería dentro de Finanzas gestiona el flujo de caja diario, las inversiones de corto plazo del excedente de liquidez y las posiciones en moneda extranjera. Las políticas de tesorería son aprobadas",
+        "en Concur con comentario obligatorio en caso de rechazo.\n3. Finanzas valida la categoría, los límites y la documentación fiscal.\n4. El reembolso se acredita en la cuenta bancaria informada en el HRMS en el siguiente ciclo de pago (los días 10 y 25 de cada mes).\n\nLímites por categoría sin aprobación adicional del área de Finanzas:\n- Alimentación por día de viaje: hasta $8.000 en Argentina, hasta USD 50 en el exterior\n- Alojamiento por noche: hasta $30.000 en Argentina, hasta USD 150 en el exterior\n- Transporte terrestre por día: hasta $5.000 en Argentina\n- Pasajes aéreos: requieren aprobación"
+      ]
+    }
+  ],
+  "scores": {
+    "relevance": 1.0,
+    "completeness": 1.0,
+    "accuracy": 1.0,
+    "reasoning": "La respuesta aborda directamente la pregunta sobre cómo cargar un reembolso, proporcionando un proceso claro y detallado. Incluye información sobre los gastos elegibles, el proceso de carga, revisión y aprobación, así como límites de gastos y acreditación del reembolso. Todo lo presentado es correcto y consistente con las políticas típicas de reembolso en empresas."
+  },
+  "final_answer": "Para cargar un reembolso en SolvNet, los empleados deben seguir un proceso específico que asegura la correcta gestión de los gastos operativos. A continuación se detallan los pasos y requisitos:\n\n### Gastos Elegibles para Reembolso\nLos gastos que pueden ser reembolsados incluyen:\n- Viáticos por viajes de negocio aprobados (transporte, alojamiento, alimentación).\n- Material de oficina para trabajo remoto (hasta $5,000 mensuales sin necesidad de aprobación adicional).\n- Libros y materiales de capacitación relacionados con el rol.\n- Suscripciones a herramientas de trabajo aprobadas por IT.\n- Gastos de representación con clientes (previa autorización del responsable).\n\n### Proceso de Reembolso\n1. **Carga del Gasto**: El empleado debe ingresar el gasto en la plataforma Concur, adjuntando el comprobante fiscal escaneado o fotografiado.\n2. **Revisión y Aprobación**: El responsable directo revisa la solicitud en Concur, donde puede aprobar o rechazar el gasto. En caso de rechazo, es obligatorio dejar un comentario explicativo.\n3. **Trámites Adicionales**: Los gastos que superen ciertos montos deben seguir el proceso estándar de compras o reembolsos. Los faltantes de caja no justificados son responsabilidad del custodio y deben ser reintegrados en un plazo de 48 horas.\n\n### Límites de Gastos Sin Aprobación Adicional\n- **Alimentación**: Hasta $8,000 por día en Argentina; hasta USD 50 en el exterior.\n- **Alojamiento**: Hasta $30,000 por noche en Argentina; hasta USD 150 en el exterior.\n- **Transporte Terrestre**: Hasta $5,000 por día en Argentina.\n- **Pasajes Aéreos**: Requieren aprobación previa.\n\n### Acreditación del Reembolso\nEl reembolso se acredita en la cuenta bancaria registrada en el HRMS en el siguiente ciclo de pago, que ocurre los días 10 y 25 de cada mes.\n\nEste proceso asegura que los gastos sean gestionados de manera eficiente y conforme a las políticas de la empresa."
+}

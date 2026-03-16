@@ -1,0 +1,36 @@
+{
+  "timestamp": "20260316_194005_078913",
+  "query": "Como solicito dias de vacaciones? como restauro mi contraseña?",
+  "domains": [
+    "hr",
+    "tech"
+  ],
+  "latency_seconds": 4.764,
+  "agent_outputs": [
+    {
+      "domain": "hr",
+      "retrievers": [
+        "ordinaria anual: Los empleados con menos de 5 años de antigüedad tienen derecho a 14 días corridos de vacaciones por año. Entre 5 y 10 años, corresponden 21 días corridos. Entre 10 y 20 años, el período es de 28 días corridos. Con más de 20 años de antigüedad, el empleado tiene derecho a 35 días corridos de descanso anual.\n\nLicencia por enfermedad: El empleado que no pueda concurrir al trabajo por razones de salud debe notificar a su responsable directo antes del inicio de la jornada laboral mediante el canal de mensajería interna o llamada telefónica. Debe adjuntar certificado médico dentro",
+        "llamada telefónica. Debe adjuntar certificado médico dentro de las 48 horas. HR validará el certificado y actualizará el registro en el HRMS. Los primeros tres días de enfermedad por año son con goce de sueldo sin necesidad de presentar certificado para empleados con más de 6 meses de antigüedad.\n\nLicencia por maternidad/paternidad: La licencia por maternidad es de 90 días corridos según el Artículo 177 de la Ley de Contrato de Trabajo. SolvNet amplía este beneficio con 15 días adicionales pagos como política interna. La licencia por paternidad es de 15 días corridos, también extendida a 30",
+        "gestantes o en período de lactancia tienen garantizada la no movilidad geográfica y la adaptación de sus condiciones de trabajo según las recomendaciones médicas. El área de HR es el canal formal para gestionar estas solicitudes.\n\n=========================================\n7. PREGUNTAS FRECUENTES DE EMPLEADOS\n=========================================\n\n¿Cómo solicito mis vacaciones?\nIngresá al portal de autoservicio de HRMS, seleccioná \"Solicitud de licencia\", elegí el tipo de licencia y las fechas. La solicitud llega automáticamente a tu responsable para aprobación. El plazo mínimo de",
+        "paternidad es de 15 días corridos, también extendida a 30 días por política interna de la empresa. Para activar cualquiera de estas licencias, el empleado debe notificar a HR con al menos 30 días de anticipación salvo casos de urgencia médica debidamente acreditada.\n\nLicencia por fallecimiento de familiar: 3 días corridos para familiar directo (cónyuge, hijos, padres, hermanos). 1 día para familiar de segundo grado (abuelos, suegros, cuñados). Estos días se otorgan con goce de sueldo y no requieren compensación posterior.\n\nLicencia por examen: Los empleados que cursen estudios formales tienen"
+      ]
+    },
+    {
+      "domain": "tech",
+      "retrievers": [
+        "obligatoria cada 90 días\n- No se pueden reutilizar las últimas 10 contraseñas\n- Bloqueo de cuenta tras 5 intentos fallidos consecutivos\n\nLa autenticación multifactor (MFA) es obligatoria para todos los empleados. Se utiliza Microsoft Authenticator como aplicación principal. En caso de pérdida o cambio de dispositivo, el usuario debe contactar a IT Support para restablecer el MFA. Bajo ninguna circunstancia se desactiva el MFA como excepción permanente.\n\nLos accesos de ex empleados son revocados automáticamente dentro de las 2 horas posteriores a la fecha efectiva de desvinculación registrada",
+        "Gestión de contraseñas: 1Password (licencia corporativa)\n- Herramientas de diseño: Figma (para equipos de Producto y Diseño)\n- IDEs: Visual Studio Code, IntelliJ IDEA, PyCharm (para equipos técnicos)\n- Seguridad: Microsoft Defender, CrowdStrike Falcon\n\nSoftware de uso restringido (requiere aprobación):\n- Herramientas de IA generativa externas (se evalúa caso por caso por razones de privacidad de datos)\n- Software de monitoreo de red o captura de tráfico\n- Herramientas de acceso remoto a terceros (TeamViewer, AnyDesk)\n- VPNs de terceros en dispositivos",
+        "al completarse el proceso de onboarding en el HRMS, con una latencia de hasta 2 horas hábiles.\n\nLos permisos a sistemas y aplicaciones se asignan según el rol definido en el perfil del empleado en Azure AD. Existen grupos de seguridad predefinidos para cada área funcional. El responsable de área puede solicitar permisos adicionales a través del portal de soporte con la debida justificación de negocio.\n\nPolítica de contraseñas:\n- Longitud mínima: 12 caracteres\n- Debe incluir mayúsculas, minúsculas, números y caracteres especiales\n- Renovación obligatoria cada 90 días\n- No se pueden reutilizar",
+        "de Data para dashboards\n\nPara reportar un problema con una aplicación de negocio, el usuario debe especificar en el ticket: nombre de la aplicación, descripción del error (con captura de pantalla), los pasos para reproducirlo, y si el problema afecta solo a su usuario o a múltiples personas. Cuanta más información se provea, más rápido IT puede diagnosticar y resolver el incidente.\n\n=========================================\n12. PLAN DE CONTINUIDAD DEL NEGOCIO Y RECUPERACIÓN ANTE DESASTRES\n=========================================\n\nIT es responsable de mantener y probar el Plan de Recuperación"
+      ]
+    }
+  ],
+  "scores": {
+    "relevance": 1.0,
+    "completeness": 1.0,
+    "accuracy": 1.0,
+    "reasoning": "La respuesta aborda directamente ambas preguntas del usuario: cómo solicitar días de vacaciones y cómo restaurar la contraseña. Proporciona pasos claros y específicos para cada proceso, cubriendo todos los aspectos necesarios. Además, la información parece correcta y coherente con las prácticas comunes en entornos corporativos."
+  },
+  "final_answer": "Para solicitar días de vacaciones, debes ingresar al portal de autoservicio de HRMS. Allí, selecciona \"Solicitud de licencia\", elige el tipo de licencia y las fechas deseadas. La solicitud se enviará automáticamente a tu responsable para su aprobación, por lo que es importante realizarla con el tiempo necesario para que pueda gestionarla adecuadamente.\n\nEn cuanto a la restauración de tu contraseña, se recomienda utilizar 1Password, que es la herramienta corporativa para la gestión de contraseñas. Si necesitas asistencia adicional, puedes abrir un ticket de solicitud de software o consultar con tu responsable."
+}

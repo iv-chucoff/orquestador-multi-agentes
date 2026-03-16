@@ -1,0 +1,269 @@
+=========================================
+1. MESA DE AYUDA Y GESTIÓN DE TICKETS
+=========================================
+
+El área de IT Support de SolvNet SaaS gestiona todas las solicitudes técnicas internas a través de la plataforma Jira Service Management. Todo incidente o solicitud debe ser registrado mediante un ticket antes de recibir atención. No se atienden solicitudes verbales ni por canales informales de mensajería sin el correspondiente ticket asociado.
+
+Para crear un ticket, el usuario debe acceder al portal de soporte en support.solvnet.internal, seleccionar la categoría correspondiente al problema y completar el formulario con la mayor cantidad de detalles posibles. Los campos obligatorios son: descripción del problema, equipo afectado, sistema operativo, urgencia estimada y captura de pantalla si aplica.
+
+Los tickets se clasifican según su criticidad en cuatro niveles:
+- P1 (Crítico): El sistema está completamente caído o hay un impacto masivo en múltiples usuarios. Tiempo de respuesta: 30 minutos. Tiempo de resolución objetivo: 4 horas.
+- P2 (Alto): Una funcionalidad importante está degradada o un usuario clave no puede trabajar. Tiempo de respuesta: 2 horas. Tiempo de resolución objetivo: 8 horas hábiles.
+- P3 (Medio): Inconveniente funcional con solución alternativa disponible. Tiempo de respuesta: 4 horas hábiles. Tiempo de resolución objetivo: 3 días hábiles.
+- P4 (Bajo): Solicitud de mejora, instalación de software no urgente, consulta informativa. Tiempo de respuesta: 1 día hábil. Tiempo de resolución objetivo: 10 días hábiles.
+
+Los horarios de atención del helpdesk son de lunes a viernes de 8:00 a 20:00 hs (hora Argentina). Fuera de ese horario, solo se atienden incidentes P1 a través del número de guardia disponible en el portal de soporte.
+
+=========================================
+2. GESTIÓN DE ACCESOS Y PERMISOS
+=========================================
+
+La gestión de identidades en SolvNet SaaS se realiza a través de Azure Active Directory (Azure AD). Todos los empleados disponen de una cuenta corporativa con el formato nombre.apellido@solvnet.com. Las cuentas son creadas automáticamente al completarse el proceso de onboarding en el HRMS, con una latencia de hasta 2 horas hábiles.
+
+Los permisos a sistemas y aplicaciones se asignan según el rol definido en el perfil del empleado en Azure AD. Existen grupos de seguridad predefinidos para cada área funcional. El responsable de área puede solicitar permisos adicionales a través del portal de soporte con la debida justificación de negocio.
+
+Política de contraseñas:
+- Longitud mínima: 12 caracteres
+- Debe incluir mayúsculas, minúsculas, números y caracteres especiales
+- Renovación obligatoria cada 90 días
+- No se pueden reutilizar las últimas 10 contraseñas
+- Bloqueo de cuenta tras 5 intentos fallidos consecutivos
+
+La autenticación multifactor (MFA) es obligatoria para todos los empleados. Se utiliza Microsoft Authenticator como aplicación principal. En caso de pérdida o cambio de dispositivo, el usuario debe contactar a IT Support para restablecer el MFA. Bajo ninguna circunstancia se desactiva el MFA como excepción permanente.
+
+Los accesos de ex empleados son revocados automáticamente dentro de las 2 horas posteriores a la fecha efectiva de desvinculación registrada en el HRMS. IT Support recibe una notificación automática del sistema para confirmar la revocación de todos los accesos, incluyendo VPN, correo, repositorios de código y aplicaciones de negocio.
+
+=========================================
+3. EQUIPAMIENTO Y HARDWARE
+=========================================
+
+SolvNet SaaS provee equipamiento estándar a todos sus empleados según la categoría del puesto. El equipamiento es propiedad de la empresa y debe ser devuelto en condiciones aceptables al momento de la desvinculación.
+
+Equipamiento estándar para empleados de nivel Junior y Semi-Senior:
+- Notebook Dell Latitude o Lenovo ThinkPad (según disponibilidad de stock)
+- Monitor externo de 24 pulgadas
+- Teclado y mouse inalámbrico
+- Auriculares con micrófono para videoconferencias
+- Cargador y adaptadores correspondientes
+
+Equipamiento adicional para empleados Senior, Lead y Managers:
+- Notebook de mayor rendimiento (procesador de última generación, 32 GB RAM)
+- Opción de segundo monitor
+- Dock station para conectividad completa
+- Webcam externa de alta definición
+
+Para empleados de Ingeniería y Data:
+- Notebook con GPU dedicada o acceso a estaciones de trabajo remotas en AWS
+- Teclado mecánico (bajo solicitud justificada)
+- Pantalla de 27 pulgadas o configuración dual monitor
+
+Las solicitudes de equipamiento adicional o reemplazo deben realizarse por ticket en la categoría "Hardware y Equipamiento". IT evalúa la solicitud según el inventario disponible y la justificación presentada. Los reemplazos por fallas garantizadas tienen prioridad sobre las solicitudes de upgrade.
+
+En caso de daño accidental al equipamiento, el empleado debe reportarlo inmediatamente a IT Support. SolvNet cubre el primer incidente de daño accidental por empleado. Los incidentes posteriores pueden derivar en un cargo parcial según el reglamento interno.
+
+=========================================
+4. POLÍTICAS DE SEGURIDAD INFORMÁTICA
+=========================================
+
+La seguridad de la información en SolvNet SaaS está gobernada por la Política de Seguridad de la Información versión 2.1, aprobada por el Directorio en octubre de 2024. Todos los empleados deben conocer y cumplir esta política.
+
+Uso aceptable de los recursos tecnológicos:
+Los dispositivos y sistemas de la empresa deben utilizarse principalmente para fines laborales. El uso personal moderado está permitido siempre que no interfiera con la productividad ni represente un riesgo de seguridad. Está prohibido utilizar los equipos corporativos para actividades ilegales, descarga de software no autorizado, acceso a sitios de contenido adulto o cualquier actividad que viole el Código de Ética de la empresa.
+
+Política de dispositivos personales (BYOD):
+El uso de dispositivos personales para acceder a sistemas corporativos está permitido únicamente a través de la VPN corporativa y previa inscripción del dispositivo en el MDM (Mobile Device Management). El acceso al correo corporativo desde dispositivos personales requiere la instalación de la aplicación Outlook con configuración de seguridad mínima definida por IT.
+
+Manejo de información confidencial:
+Los documentos clasificados como "Confidencial" o "Interno" no pueden ser enviados por correo personal ni almacenados en servicios de nube no autorizados. Los servicios aprobados para almacenamiento de información corporativa son: Microsoft OneDrive, SharePoint y los repositorios de código en GitHub Enterprise. El uso de Google Drive personal, Dropbox u otros servicios externos para información corporativa está prohibido.
+
+Política de incidentes de seguridad:
+Ante cualquier sospecha de incidente de seguridad (phishing, malware, acceso no autorizado, pérdida de dispositivo), el empleado debe reportar de inmediato a security@solvnet.com y crear un ticket P1 en el portal de soporte. No intentar resolver el incidente de forma autónoma, ya que esto puede comprometer la evidencia forense.
+
+=========================================
+5. INFRAESTRUCTURA Y SERVICIOS EN LA NUBE
+=========================================
+
+SolvNet opera principalmente en AWS (Amazon Web Services) con servicios complementarios en Microsoft Azure. La infraestructura está segmentada en ambientes de Producción, Staging y Desarrollo, con accesos diferenciados según el rol del empleado.
+
+Los servicios de productividad internos corren en Microsoft 365, que incluye: Exchange Online (correo), Teams (comunicación y videoconferencias), SharePoint (gestión documental), OneDrive (almacenamiento personal) y Office 365 (suite de ofimática).
+
+La VPN corporativa es obligatoria para acceder a sistemas internos desde redes externas. Se utiliza Cisco AnyConnect como cliente VPN. La instalación y configuración inicial debe realizarse con asistencia de IT Support. La VPN divide el tráfico: solo el tráfico hacia sistemas internos se enruta por el túnel corporativo.
+
+Monitoreo y disponibilidad:
+IT mantiene un tablero de estado de servicios accesible en status.solvnet.internal que muestra en tiempo real la disponibilidad de todos los sistemas críticos. Los empleados pueden suscribirse a notificaciones de incidentes. El objetivo de disponibilidad (SLA interno) para sistemas de producción es del 99,5% mensual.
+
+=========================================
+6. SOFTWARE AUTORIZADO Y LICENCIAS
+=========================================
+
+SolvNet gestiona un catálogo de software autorizado disponible en el portal de autoservicio de IT. Los empleados pueden instalar cualquier aplicación del catálogo sin necesidad de aprobación adicional. La instalación de software fuera del catálogo requiere solicitud formal con justificación de negocio y aprobación del responsable directo.
+
+Software incluido en el catálogo estándar:
+- Suite Microsoft 365 (Word, Excel, PowerPoint, Outlook, Teams)
+- Navegadores: Chrome, Firefox, Edge
+- Clientes de videoconferencia: Zoom, Google Meet
+- Gestión de contraseñas: 1Password (licencia corporativa)
+- Herramientas de diseño: Figma (para equipos de Producto y Diseño)
+- IDEs: Visual Studio Code, IntelliJ IDEA, PyCharm (para equipos técnicos)
+- Seguridad: Microsoft Defender, CrowdStrike Falcon
+
+Software de uso restringido (requiere aprobación):
+- Herramientas de IA generativa externas (se evalúa caso por caso por razones de privacidad de datos)
+- Software de monitoreo de red o captura de tráfico
+- Herramientas de acceso remoto a terceros (TeamViewer, AnyDesk)
+- VPNs de terceros en dispositivos corporativos
+
+=========================================
+7. PREGUNTAS FRECUENTES DE IT
+=========================================
+
+¿Qué hago si olvidé mi contraseña?
+Podés restablecer tu contraseña desde la pantalla de login de Microsoft usando la opción "¿Olvidaste tu contraseña?". Si tenés problemas con el MFA, debés abrir un ticket P2 o llamar al helpdesk.
+
+¿Cómo instalo la VPN en mi equipo?
+Descargá Cisco AnyConnect desde el portal de software autorizado. El servidor VPN es vpn.solvnet.com. Necesitás tus credenciales corporativas y el código de MFA para conectarte.
+
+¿Puedo usar ChatGPT u otras IAs para mi trabajo?
+El uso de herramientas de IA externas está bajo evaluación. Por el momento, podés usar las herramientas de IA integradas en Microsoft 365 (Copilot). Para otras herramientas, consultá con tu responsable y abrí un ticket de solicitud de software.
+
+¿Cómo reporto un correo sospechoso?
+Usá el botón "Reportar phishing" integrado en Outlook. Si ya hiciste clic en un enlace sospechoso, avisá de inmediato a security@solvnet.com y abrí un ticket P1.
+
+¿Qué hago si mi notebook no enciende?
+Abrí un ticket P2 en el portal describiendo el problema. Si no tenés acceso al portal desde otro dispositivo, llamá al helpdesk. IT gestionará el reemplazo o reparación con urgencia.
+
+=========================================
+8. GESTIÓN DE REDES Y CONECTIVIDAD
+=========================================
+
+La infraestructura de red corporativa de SolvNet SaaS está gestionada por el equipo de IT Infrastructure. La red interna de las oficinas opera sobre equipamiento Cisco con segmentación en VLANs por función: VLAN corporativa, VLAN de invitados, VLAN de servidores internos y VLAN de dispositivos IoT. Cada segmento tiene políticas de firewall independientes gestionadas en Cisco Firepower.
+
+Los empleados que trabajan desde las oficinas se conectan a la red corporativa mediante su usuario y contraseña de Azure AD a través de autenticación 802.1X. No está permitido conectar dispositivos no autorizados a la red corporativa. Las impresoras, teléfonos IP y dispositivos de videoconferencia son gestionados por IT y están registrados en el inventario de activos.
+
+Conectividad de última milla:
+Las oficinas de SolvNet cuentan con redundancia de acceso a internet con dos proveedores distintos y failover automático. El objetivo de disponibilidad de la conectividad de oficinas es del 99,9% mensual. Ante una caída de conectividad, el empleado debe reportarlo inmediatamente al helpdesk para que IT evalúe si es un incidente local o un problema del proveedor.
+
+WiFi para visitantes:
+SolvNet ofrece una red WiFi de invitados en todas sus oficinas. El acceso se gestiona a través de un portal cautivo con registro de nombre, empresa y correo del visitante. La red de invitados está aislada de la red corporativa y tiene limitación de ancho de banda. Los empleados no deben conectar sus dispositivos corporativos a la red de invitados.
+
+=========================================
+9. GESTIÓN DE COPIAS DE SEGURIDAD
+=========================================
+
+IT es responsable de garantizar la disponibilidad y recuperabilidad de la información crítica de SolvNet a través de una política de copias de seguridad (backup) documentada y auditada. Los backups son parte esencial del plan de continuidad del negocio (BCP).
+
+Política de backups corporativos:
+- Datos de producción en AWS: snapshots diarios automáticos con retención de 30 días, backups semanales con retención de 12 semanas y backups mensuales con retención de 12 meses.
+- Base de datos de clientes: backup incremental cada 6 horas, backup completo diario, almacenado en región AWS diferente a la de producción.
+- SharePoint y OneDrive: Microsoft 365 Backup habilitado con retención de 180 días.
+- Código fuente en GitHub Enterprise: replicación automática diaria a bucket S3 de backup.
+
+Los backups son verificados mediante pruebas de restauración trimestrales. Los resultados de las pruebas se documentan en el registro de continuidad del negocio. Cualquier fallo en una prueba de restauración se trata como incidente P2.
+
+El empleado que necesite restaurar un archivo eliminado accidentalmente desde SharePoint o OneDrive puede hacerlo de forma autónoma desde la papelera de reciclaje hasta 93 días después de la eliminación. Para restauraciones más antiguas o de sistemas de producción, debe abrir un ticket a IT con la descripción del archivo y la fecha aproximada de la versión requerida.
+
+=========================================
+10. GESTIÓN DE ACTIVOS TECNOLÓGICOS
+=========================================
+
+IT mantiene un inventario completo de todos los activos tecnológicos de SolvNet utilizando la plataforma Snipe-IT. Cada activo tiene un número de serie, un responsable asignado y una fecha de próxima revisión. El inventario es auditado físicamente dos veces al año.
+
+Ciclo de vida de los activos:
+Los equipos de cómputo tienen un ciclo de vida estándar de 3 años para notebooks y 5 años para monitores y periféricos. Al cumplirse el ciclo de vida, IT evalúa el estado del equipo: si está funcional se asigna a un rol de menor exigencia de recursos, y si está deteriorado se da de baja del inventario y se procede a su disposición responsable mediante empresas certificadas de reciclado de electrónicos.
+
+Proceso de baja de activos:
+Antes de dar de baja cualquier dispositivo, IT realiza un borrado seguro de datos certificado (estándar DoD 5220.22-M o superior). Se genera un certificado de destrucción de datos que se archiva en el expediente del activo. Bajo ninguna circunstancia se descartan dispositivos con datos sin el proceso de borrado certificado.
+
+Préstamo temporal de equipos:
+Para necesidades temporales (eventos, capacitaciones, cobertura de equipos en reparación), IT gestiona un pool de equipos de préstamo. La solicitud se realiza por ticket con al menos 48 horas de anticipación, especificando las fechas de préstamo y devolución. El equipo prestado debe ser devuelto en las mismas condiciones en que fue entregado.
+
+=========================================
+11. SOPORTE A APLICACIONES DE NEGOCIO
+=========================================
+
+IT Support proporciona soporte de primer nivel para las aplicaciones de negocio utilizadas en SolvNet. Para problemas que requieren configuración avanzada o intervención del proveedor, IT escala al equipo de soporte de segundo nivel o directamente al soporte del proveedor.
+
+Aplicaciones de negocio y sus responsables de soporte:
+- HRMS (BambooHR): soporte L1 por IT, escalada a HR para configuración funcional
+- ERP (SAP Business One): soporte L1 por IT, escalada al partner SAP para problemas técnicos
+- CRM (Salesforce): soporte L1 por IT, escalada al equipo de RevOps para configuración
+- Plataforma de soporte (Jira Service Management): administrada directamente por IT
+- Herramienta de diseño (Figma): soporte básico por IT, escalada a Producto para licencias
+- Plataforma de BI (Looker): soporte L1 por IT, escalada al equipo de Data para dashboards
+
+Para reportar un problema con una aplicación de negocio, el usuario debe especificar en el ticket: nombre de la aplicación, descripción del error (con captura de pantalla), los pasos para reproducirlo, y si el problema afecta solo a su usuario o a múltiples personas. Cuanta más información se provea, más rápido IT puede diagnosticar y resolver el incidente.
+
+=========================================
+12. PLAN DE CONTINUIDAD DEL NEGOCIO Y RECUPERACIÓN ANTE DESASTRES
+=========================================
+
+IT es responsable de mantener y probar el Plan de Recuperación ante Desastres (DRP) y el Plan de Continuidad del Negocio (BCP) de SolvNet. Estos planes son revisados y actualizados anualmente o ante cambios significativos en la infraestructura.
+
+Objetivos de recuperación:
+- RTO (Recovery Time Objective): el tiempo máximo tolerable de indisponibilidad del sistema es de 4 horas para sistemas críticos de producción y 24 horas para sistemas de soporte.
+- RPO (Recovery Point Objective): la pérdida máxima tolerable de datos es de 6 horas para la plataforma de producción y 24 horas para sistemas administrativos.
+
+Escenarios cubiertos por el DRP:
+- Fallo de la región primaria de AWS
+- Ransomware o ataque de malware que comprometa los sistemas
+- Pérdida física de las instalaciones de oficina
+- Fallo masivo de servicios de Microsoft 365
+- Pérdida de conectividad de internet prolongada
+
+En caso de activación del DRP, el Comité de Crisis (CTO, CEO, Director IT) toma las decisiones. IT ejecuta el plan siguiendo el runbook documentado. Las comunicaciones a los empleados y clientes son coordinadas por el área de Comunicaciones con soporte de Legal.
+
+Pruebas del DRP:
+El DRP se prueba al menos una vez al año con una simulación de fallo que incluye la restauración de sistemas desde backups en el ambiente de recuperación. Los resultados de la prueba se documentan y las brechas identificadas se convierten en tickets de mejora con prioridad alta.
+
+=========================================
+13. COMUNICACIONES Y VIDEOCONFERENCIAS
+=========================================
+
+SolvNet utiliza Microsoft Teams como plataforma principal de comunicación interna y videoconferencias. Todos los empleados tienen acceso a Teams con su cuenta corporativa. La estructura de canales en Teams debe seguir las guías de organización publicadas en el portal interno para evitar la proliferación de canales sin uso.
+
+Buenas prácticas en videoconferencias:
+- Conectarse con al menos 2 minutos de anticipación a reuniones con clientes o externos
+- Usar auriculares para mejorar la calidad de audio y reducir el ruido de fondo
+- Encender la cámara cuando sea posible para reuniones de equipo (no es obligatorio pero sí recomendado)
+- Silenciar el micrófono cuando no se está hablando en reuniones con más de 5 participantes
+- Usar las salas de reuniones virtuales de Teams para llamadas ad-hoc en lugar de crear nuevas reuniones
+
+Grabación de reuniones:
+Las reuniones internas pueden ser grabadas con el consentimiento de todos los participantes. Las reuniones con clientes o externos requieren informar a los participantes al inicio que la sesión será grabada. Las grabaciones se almacenan en Microsoft Stream y el organizador es responsable de compartir el acceso o eliminar la grabación cuando no sea necesaria.
+
+Telefonía:
+SolvNet utiliza Microsoft Teams Phone como sistema de telefonía VoIP. Los empleados con necesidad de línea telefónica (atención al cliente, ventas) tienen asignado un número corporativo en Teams. Las llamadas salientes a clientes deben realizarse desde el número corporativo para que el cliente identifique a SolvNet como emisor.
+
+=========================================
+14. MONITOREO Y OBSERVABILIDAD DE SISTEMAS
+=========================================
+
+El equipo de IT Infrastructure mantiene un sistema de monitoreo integral de todos los servicios y aplicaciones de SolvNet. La plataforma principal de observabilidad es Datadog, donde se consolidan métricas, logs, trazas distribuidas y alertas de todos los ambientes.
+
+Niveles de monitoreo:
+- Infraestructura: CPU, memoria, disco, red de todos los servidores y contenedores en AWS. Alertas configuradas para umbrales de utilización.
+- Aplicaciones: tiempo de respuesta, tasa de errores, throughput de las APIs de la plataforma SolvNet. El SLA de tiempo de respuesta de las APIs críticas es de 500ms en el percentil 95.
+- Base de datos: queries lentas, conexiones activas, espacio en disco, replicación. Alertas para queries que superen los 2 segundos de ejecución.
+- Seguridad: eventos de autenticación fallida, accesos inusuales, cambios en configuraciones críticas. Integrado con Microsoft Sentinel para correlación de eventos de seguridad.
+
+Gestión de alertas:
+Las alertas de Datadog se enrutan a canales específicos de Slack según su severidad. Las alertas críticas también disparan notificaciones por SMS y llamada telefónica al ingeniero de guardia. El equipo de IT trabaja en un esquema de guardia 24/7 con rotación semanal para atender incidentes fuera del horario de oficina.
+
+El Mean Time to Detect (MTTD) objetivo para incidentes críticos es de menos de 5 minutos con monitoreo automatizado. El Mean Time to Resolve (MTTR) objetivo es de menos de 2 horas para incidentes P1. Estos indicadores se revisan mensualmente y son parte del scorecard de desempeño del equipo de IT.
+
+=========================================
+15. GESTIÓN DE PROYECTOS DE IT Y CAMBIOS
+=========================================
+
+IT gestiona sus proyectos de mejora de infraestructura y cambios en sistemas productivos a través de un proceso formal de Change Management. El objetivo es minimizar el riesgo de interrupciones en los servicios producidas por cambios no controlados.
+
+Clasificación de cambios:
+- Cambio estándar: modificaciones pre-aprobadas de bajo riesgo que siguen un procedimiento documentado (actualizaciones de parches de seguridad, ajustes de configuración menores). No requieren aprobación adicional pero sí registro.
+- Cambio normal: modificaciones que requieren evaluación de riesgo, plan de rollback y aprobación del Change Advisory Board (CAB) antes de su implementación. El CAB se reúne semanalmente.
+- Cambio de emergencia: modificaciones urgentes para resolver incidentes activos. Requieren aprobación del CTO o del Director IT en el momento. Se documentan retroactivamente dentro de las 24 horas.
+
+Ventanas de mantenimiento:
+Los cambios en sistemas productivos se realizan preferentemente durante las ventanas de mantenimiento establecidas: domingos de 2:00 a 6:00 hs (hora Argentina). Los cambios que se realicen fuera de la ventana de mantenimiento requieren justificación documentada y aprobación del Director IT. Los clientes son notificados con al menos 72 horas de anticipación ante mantenimientos que puedan afectar la disponibilidad del servicio.
+
+Gestión de proyectos de IT:
+Los proyectos de IT de más de 40 horas de esfuerzo se gestionan con metodología ágil en sprints de 2 semanas dentro de Jira. Cada proyecto tiene un responsable técnico (tech lead) y un patrocinador de negocio. El avance se reporta quincenalmente al CTO y a los stakeholders relevantes.

@@ -1,0 +1,26 @@
+{
+  "timestamp": "20260316_192844_049880",
+  "query": "¿Puedo solicitar un adelanto de sueldo?",
+  "domains": [
+    "finance"
+  ],
+  "latency_seconds": 2.969,
+  "agent_outputs": [
+    {
+      "domain": "finance",
+      "retrievers": [
+        "liquidación de sueldos en SolvNet SaaS es procesada por el área de Finanzas en coordinación con HR. El cierre de novedades (horas extras, licencias, descuentos, incrementos) se realiza el día 20 de cada mes. Las novedades posteriores a esa fecha se procesan en el mes siguiente salvo casos excepcionales autorizados por el CFO.\n\nEl pago de sueldos se acredita el último día hábil de cada mes en las cuentas bancarias informadas por los empleados en el HRMS. El recibo de sueldo digital se publica en el portal de HRMS entre los días 1 y 5 del mes siguiente. Los recibos deben ser firmados",
+        "días 1 y 5 del mes siguiente. Los recibos deben ser firmados digitalmente por el empleado dentro de los 10 días de su publicación.\n\nLas deducciones de nómina estándar incluyen: aportes jubilatorios (11%), obra social empleado (3%), INSSJP/PAMI (3%), aporte sindical si aplica (2%), y los impuestos que correspondan según la escala del Impuesto a las Ganancias de Cuarta Categoría.\n\nSolvNet liquida horas extras a los empleados de las categorías que lo contemplan según el convenio colectivo aplicable. Las horas extras deben ser autorizadas previamente por el responsable directo y registradas en el",
+        "seleccioná \"Nuevo informe de gastos\", completá los datos del gasto y adjuntá el comprobante. El sistema valida automáticamente los límites por categoría.\n\n¿Puedo solicitar un adelanto de sueldo?\nSolvNet no otorga adelantos de sueldo como política general. En situaciones de emergencia debidamente justificadas, el empleado puede solicitar una excepción al CFO a través de HR.\n\n¿Cómo obtengo una constancia de ingresos?\nLas constancias de ingresos son emitidas por Finanzas dentro de las 48 horas hábiles de solicitada. Enviá un correo a payroll@solvnet.com con tu nombre completo, CUIL y el fin para",
+        "mensual\n- Cargas sociales patronales: presentación y pago mensual junto con el F.931\n\nLos empleados que perciban ingresos por encima del mínimo no imponible del Impuesto a las Ganancias deben completar el formulario F.572 (SIRADIG Trabajador) en la página web de AFIP para informar las deducciones personales que correspondan. Finanzas calcula y retiene el impuesto mensualmente según la información declarada.\n\nPara los empleados facturantes (monotributistas o responsables inscriptos que prestan servicios a SolvNet), el tratamiento impositivo es diferente. Finanzas verifica mensualmente la"
+      ]
+    }
+  ],
+  "scores": {
+    "relevance": 1.0,
+    "completeness": 1.0,
+    "accuracy": 1.0,
+    "reasoning": "La respuesta aborda directamente la pregunta sobre la posibilidad de solicitar un adelanto de sueldo, explicando la política de la empresa y las condiciones bajo las cuales se podría hacer una excepción. Además, la información proporcionada es clara y parece correcta, ya que no presenta contradicciones."
+  },
+  "final_answer": "SolvNet no otorga adelantos de sueldo como política general. En situaciones de emergencia debidamente justificadas, el empleado puede solicitar una excepción al CFO a través de HR."
+}

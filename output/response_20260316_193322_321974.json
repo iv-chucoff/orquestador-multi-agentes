@@ -1,0 +1,26 @@
+{
+  "timestamp": "20260316_193322_321974",
+  "query": "¿Cómo solicito  vacaciones?",
+  "domains": [
+    "hr"
+  ],
+  "latency_seconds": 3.705,
+  "agent_outputs": [
+    {
+      "domain": "hr",
+      "retrievers": [
+        "gestantes o en período de lactancia tienen garantizada la no movilidad geográfica y la adaptación de sus condiciones de trabajo según las recomendaciones médicas. El área de HR es el canal formal para gestionar estas solicitudes.\n\n=========================================\n7. PREGUNTAS FRECUENTES DE EMPLEADOS\n=========================================\n\n¿Cómo solicito mis vacaciones?\nIngresá al portal de autoservicio de HRMS, seleccioná \"Solicitud de licencia\", elegí el tipo de licencia y las fechas. La solicitud llega automáticamente a tu responsable para aprobación. El plazo mínimo de",
+        "ordinaria anual: Los empleados con menos de 5 años de antigüedad tienen derecho a 14 días corridos de vacaciones por año. Entre 5 y 10 años, corresponden 21 días corridos. Entre 10 y 20 años, el período es de 28 días corridos. Con más de 20 años de antigüedad, el empleado tiene derecho a 35 días corridos de descanso anual.\n\nLicencia por enfermedad: El empleado que no pueda concurrir al trabajo por razones de salud debe notificar a su responsable directo antes del inicio de la jornada laboral mediante el canal de mensajería interna o llamada telefónica. Debe adjuntar certificado médico dentro",
+        "llamada telefónica. Debe adjuntar certificado médico dentro de las 48 horas. HR validará el certificado y actualizará el registro en el HRMS. Los primeros tres días de enfermedad por año son con goce de sueldo sin necesidad de presentar certificado para empleados con más de 6 meses de antigüedad.\n\nLicencia por maternidad/paternidad: La licencia por maternidad es de 90 días corridos según el Artículo 177 de la Ley de Contrato de Trabajo. SolvNet amplía este beneficio con 15 días adicionales pagos como política interna. La licencia por paternidad es de 15 días corridos, también extendida a 30",
+        "en el cumpleaños del empleado\n- Acceso a descuentos corporativos en gimnasios, ópticas y farmacias\n\nBeneficios adicionales para empleados con más de 2 años de antigüedad:\n- Seguro de vida por el equivalente a 24 meses de salario bruto\n- Plan de acciones diferidas (ESOP) con vesting de 4 años\n- Flexibilidad horaria extendida con ventana de trabajo de 6 horas continuas elegida por el empleado\n\n=========================================\n5. DESVINCULACIONES Y OFFBOARDING\n=========================================\n\nEl proceso de desvinculación en SolvNet SaaS puede originarse por renuncia voluntaria,"
+      ]
+    }
+  ],
+  "scores": {
+    "relevance": 1.0,
+    "completeness": 1.0,
+    "accuracy": 1.0,
+    "reasoning": "La respuesta aborda directamente cómo solicitar vacaciones, proporcionando pasos claros y relevantes. Cubre todos los aspectos necesarios, como el acceso al portal, la selección de tipo de licencia y la importancia del aviso previo. Además, la información parece correcta y coherente con los procedimientos típicos de solicitud de vacaciones."
+  },
+  "final_answer": "Para solicitar tus vacaciones, debes acceder al portal de autoservicio de HRMS. Una vez allí, selecciona \"Solicitud de licencia\", elige el tipo de licencia y las fechas deseadas. La solicitud se enviará automáticamente a tu responsable para su aprobación. Es importante tener en cuenta el plazo mínimo de aviso para facilitar la gestión de tu solicitud."
+}

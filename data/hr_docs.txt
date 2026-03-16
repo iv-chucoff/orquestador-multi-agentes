@@ -1,0 +1,278 @@
+=========================================
+1. POLÍTICA DE INCORPORACIÓN DE EMPLEADOS
+=========================================
+
+El proceso de onboarding en SolvNet SaaS comienza formalmente el primer día hábil del nuevo empleado. Recursos Humanos es responsable de coordinar todas las etapas del ingreso, desde la firma del contrato hasta la asignación del equipo de trabajo. Cada nuevo integrante recibe un kit de bienvenida digital que incluye el manual del empleado, las políticas de la empresa, el organigrama actualizado y los accesos iniciales al portal interno.
+
+Durante la primera semana, el empleado deberá completar los siguientes módulos de capacitación obligatoria disponibles en la plataforma LMS interna: Introducción a la cultura organizacional de SolvNet, Políticas de seguridad de la información, Código de ética y conducta, Uso adecuado de herramientas tecnológicas, y Prevención del acoso laboral.
+
+El área de HR asigna un "buddy" o acompañante interno a cada nuevo empleado durante el primer mes. Este acompañante pertenece al mismo equipo o área funcional y cumple el rol de guía informal para preguntas del día a día. El buddy no reemplaza al responsable de línea, pero facilita la integración cultural y operativa.
+
+Al finalizar el primer mes, el responsable directo completa una evaluación de adaptación inicial en el sistema HRMS. Si el resultado es satisfactorio, se habilita el acceso completo a todas las herramientas de productividad. En caso de detectarse dificultades, se programa una reunión de seguimiento con HR para diseñar un plan de acompañamiento personalizado.
+
+Los empleados que ingresan en modalidad remota reciben, adicionalmente, un kit físico enviado a su domicilio que incluye auriculares, mousepad y una tarjeta de bienvenida firmada por el equipo de liderazgo. El costo de este kit es absorbido por la empresa y no representa un beneficio impositivo para el empleado.
+
+=========================================
+2. LICENCIAS Y AUSENCIAS
+=========================================
+
+SolvNet SaaS reconoce los siguientes tipos de licencias remuneradas según la legislación argentina y las políticas internas de la empresa:
+
+Licencia ordinaria anual: Los empleados con menos de 5 años de antigüedad tienen derecho a 14 días corridos de vacaciones por año. Entre 5 y 10 años, corresponden 21 días corridos. Entre 10 y 20 años, el período es de 28 días corridos. Con más de 20 años de antigüedad, el empleado tiene derecho a 35 días corridos de descanso anual.
+
+Licencia por enfermedad: El empleado que no pueda concurrir al trabajo por razones de salud debe notificar a su responsable directo antes del inicio de la jornada laboral mediante el canal de mensajería interna o llamada telefónica. Debe adjuntar certificado médico dentro de las 48 horas. HR validará el certificado y actualizará el registro en el HRMS. Los primeros tres días de enfermedad por año son con goce de sueldo sin necesidad de presentar certificado para empleados con más de 6 meses de antigüedad.
+
+Licencia por maternidad/paternidad: La licencia por maternidad es de 90 días corridos según el Artículo 177 de la Ley de Contrato de Trabajo. SolvNet amplía este beneficio con 15 días adicionales pagos como política interna. La licencia por paternidad es de 15 días corridos, también extendida a 30 días por política interna de la empresa. Para activar cualquiera de estas licencias, el empleado debe notificar a HR con al menos 30 días de anticipación salvo casos de urgencia médica debidamente acreditada.
+
+Licencia por fallecimiento de familiar: 3 días corridos para familiar directo (cónyuge, hijos, padres, hermanos). 1 día para familiar de segundo grado (abuelos, suegros, cuñados). Estos días se otorgan con goce de sueldo y no requieren compensación posterior.
+
+Licencia por examen: Los empleados que cursen estudios formales tienen derecho a 10 días por año calendario para rendir exámenes, con un máximo de 2 días por examen. Se debe presentar constancia de examen con al menos 72 horas de anticipación. Este beneficio aplica a estudios de grado, posgrado, maestría y doctorado.
+
+Licencia por donación de sangre: El empleado que done sangre en forma voluntaria tiene derecho a medio día laboral remunerado el día de la donación, previa presentación de comprobante del banco de sangre.
+
+=========================================
+3. EVALUACIÓN DE DESEMPEÑO
+=========================================
+
+SolvNet utiliza un modelo de evaluación de desempeño semestral basado en OKRs (Objectives and Key Results) y competencias conductuales. El ciclo evaluatorio se realiza en junio y diciembre de cada año. La plataforma utilizada es Lattice, integrada con el HRMS principal.
+
+El proceso de evaluación consta de tres etapas: autoevaluación del empleado, evaluación del responsable directo, y calibración con el equipo de HR. En los niveles Senior y Lead, se incorpora además una instancia de evaluación 360 con pares y colaboradores directos.
+
+Las competencias evaluadas en todos los niveles son: orientación al resultado, trabajo en equipo y colaboración, comunicación efectiva, adaptabilidad al cambio y aprendizaje continuo. A partir del nivel Senior se agregan: liderazgo situacional, pensamiento estratégico y gestión de la complejidad.
+
+Los resultados de la evaluación se clasifican en cuatro bandas: Supera expectativas (SE), Cumple expectativas (CE), En desarrollo (ED) y Por debajo de expectativas (PDE). Los empleados con resultado SE en dos evaluaciones consecutivas son elegibles para promoción de categoría y revisión salarial fuera de ciclo. Los empleados con resultado PDE en dos evaluaciones consecutivas ingresan en un Plan de Mejora de Desempeño (PIP) formal de 90 días.
+
+El feedback de la evaluación debe entregarse de forma presencial o videoconferencia en una reunión de no menos de 30 minutos. No está permitido comunicar resultados evaluatorios exclusivamente por escrito. HR supervisa que el 100% de las reuniones de feedback se realicen dentro de los 15 días posteriores al cierre del ciclo.
+
+=========================================
+4. COMPENSACIONES Y BENEFICIOS
+=========================================
+
+SolvNet SaaS ofrece un esquema de compensación total que combina salario base, bono de desempeño anual y beneficios no remunerativos. El salario base se revisa anualmente en el mes de marzo, con ajustes por inflación aplicados según el índice de actualización acordado con los representantes gremiales.
+
+El bono anual de desempeño equivale a entre el 5% y el 20% del salario anual bruto, según la banda evaluatoria obtenida y el cumplimiento de los OKRs del equipo. El bono se paga en el mes de febrero del año siguiente al período evaluado.
+
+Beneficios vigentes para todos los empleados:
+- Obra social de primer nivel con cobertura para grupo familiar primario
+- Bono de conectividad mensual de $15.000 para empleados remotos
+- Reintegro de gastos de capacitación hasta $80.000 anuales previa aprobación de HR
+- Suscripción a plataforma de bienestar y salud mental (Meditopia)
+- Día libre adicional en el cumpleaños del empleado
+- Acceso a descuentos corporativos en gimnasios, ópticas y farmacias
+
+Beneficios adicionales para empleados con más de 2 años de antigüedad:
+- Seguro de vida por el equivalente a 24 meses de salario bruto
+- Plan de acciones diferidas (ESOP) con vesting de 4 años
+- Flexibilidad horaria extendida con ventana de trabajo de 6 horas continuas elegida por el empleado
+
+=========================================
+5. DESVINCULACIONES Y OFFBOARDING
+=========================================
+
+El proceso de desvinculación en SolvNet SaaS puede originarse por renuncia voluntaria, despido con o sin causa, jubilación o mutuo acuerdo. En todos los casos, HR es responsable de coordinar el proceso de offboarding para garantizar la continuidad operativa y el cumplimiento legal.
+
+En caso de renuncia voluntaria, el empleado debe notificar por escrito con al menos 15 días de anticipación (30 días para posiciones gerenciales). HR inicia de inmediato el proceso de sustitución y coordina la transferencia de conocimiento con el responsable de área.
+
+El checklist de offboarding incluye: devolución de equipos corporativos, revocación de accesos a sistemas internos (coordinado con IT Support), liquidación final de haberes, carta de recomendación si aplica, y encuesta de salida confidencial. Los resultados de las encuestas de salida son analizados trimestralmente por HR para identificar patrones y proponer mejoras en la retención.
+
+La liquidación final debe realizarse dentro de los 4 días hábiles posteriores a la fecha efectiva de desvinculación, de acuerdo con la legislación vigente. HR coordina con el área de Finanzas para garantizar el pago en término.
+
+=========================================
+6. POLÍTICAS DE DIVERSIDAD E INCLUSIÓN
+=========================================
+
+SolvNet SaaS está comprometida con la construcción de equipos diversos e inclusivos. La política de D&I establece que ninguna decisión de contratación, promoción o desvinculación puede basarse en criterios de género, orientación sexual, origen étnico, religión, discapacidad, edad o situación socioeconómica.
+
+El Comité de Diversidad e Inclusión se reúne mensualmente y está integrado por representantes de todas las áreas funcionales. Sus responsabilidades incluyen revisar métricas de diversidad, proponer iniciativas de inclusión y evaluar el cumplimiento de las políticas vigentes.
+
+La empresa participa activamente en programas de inserción laboral para personas con discapacidad, en cumplimiento de la Ley 22.431 y sus modificatorias. El objetivo interno es que al menos el 4% de la dotación total esté compuesta por personas con discapacidad certificada.
+
+Las empleadas gestantes o en período de lactancia tienen garantizada la no movilidad geográfica y la adaptación de sus condiciones de trabajo según las recomendaciones médicas. El área de HR es el canal formal para gestionar estas solicitudes.
+
+=========================================
+7. PREGUNTAS FRECUENTES DE EMPLEADOS
+=========================================
+
+¿Cómo solicito mis vacaciones?
+Ingresá al portal de autoservicio de HRMS, seleccioná "Solicitud de licencia", elegí el tipo de licencia y las fechas. La solicitud llega automáticamente a tu responsable para aprobación. El plazo mínimo de anticipación es de 15 días para licencias de más de 5 días.
+
+¿Dónde veo mis recibos de sueldo?
+Los recibos digitales están disponibles en el portal HRMS en la sección "Mis documentos". Se publican entre los días 1 y 5 de cada mes para los sueldos del mes anterior.
+
+¿Cómo actualizo mis datos personales?
+Podés actualizar tu información de contacto, cuenta bancaria y datos familiares directamente en el portal HRMS. Cambios en datos impositivos (CUIL, categoría AFIP) deben ser validados por HR antes de procesarse.
+
+¿Puedo trabajar desde otro país temporalmente?
+SolvNet permite el trabajo remoto desde el exterior por un máximo de 30 días corridos por año, sujeto a aprobación del responsable directo y verificación impositiva por parte de HR. Estadías más prolongadas requieren análisis legal y aprobación de Dirección.
+
+¿Qué hago si tengo un conflicto con mi responsable directo?
+El canal formal es el área de Recursos Humanos, a través del correo hrcomite@solvnet.com. También existe una línea ética anónima disponible en el portal interno. Todos los casos se tratan con absoluta confidencialidad.
+
+=========================================
+8. CAPACITACIÓN Y DESARROLLO PROFESIONAL
+=========================================
+
+SolvNet SaaS considera el desarrollo profesional de sus empleados una inversión estratégica para la sostenibilidad del negocio. El área de HR gestiona el Plan Anual de Capacitación (PAC) en base a las necesidades detectadas en las evaluaciones de desempeño, las demandas de los responsables de área y las tendencias del mercado laboral tecnológico.
+
+El presupuesto anual de capacitación es de USD 1.200 por empleado para niveles Junior y Semi-Senior, USD 2.000 para niveles Senior y Lead, y USD 3.500 para posiciones de Manager y Director. Este presupuesto es gestionado por cada empleado con aprobación del responsable directo y rendición a HR.
+
+Modalidades de capacitación cubiertas:
+- Cursos online en plataformas como Coursera, Udemy, LinkedIn Learning o Platzi
+- Certificaciones profesionales en tecnología, gestión de proyectos o áreas funcionales
+- Talleres presenciales o virtuales de habilidades blandas
+- Congresos y eventos del sector (hasta 2 por año con justificación)
+- Programas de posgrado o maestría: cobertura parcial del 40% del arancel previa firma de acuerdo de permanencia de 2 años
+
+El proceso para solicitar una capacitación es: el empleado completa el formulario de solicitud de capacitación en el portal HRMS con el nombre del curso, proveedor, costo, duración y justificación de relevancia para su rol. El responsable directo aprueba o rechaza en el sistema. HR valida que el monto no supere el presupuesto disponible y procesa el pago.
+
+Programa de mentoring interno:
+SolvNet cuenta con un programa de mentoring voluntario donde empleados Senior y Lead pueden postularse como mentores de colegas menos experimentados. El programa tiene una duración de 6 meses con encuentros quincenales de 1 hora. Los mentores reciben una compensación adicional de $10.000 mensuales durante el período activo del mentoring. Los mentees acceden al programa por postulación o derivación de HR.
+
+Programa de rotación interna:
+Los empleados con más de 1 año de antigüedad pueden postularse a posiciones vacantes internas antes de que sean publicadas externamente. Las postulaciones internas tienen prioridad frente a candidatos externos con igual nivel de idoneidad. HR gestiona el proceso de postulación interna con transparencia y confidencialidad.
+
+=========================================
+9. CLIMA LABORAL Y BIENESTAR
+=========================================
+
+SolvNet realiza una encuesta de clima laboral dos veces al año (abril y octubre) utilizando la plataforma Culture Amp. La encuesta es anónima y los resultados son compartidos con todos los empleados de forma agregada por área. Los responsables de área reciben el detalle de su equipo solo cuando hay más de 5 respuestas para preservar el anonimato.
+
+Los resultados de la encuesta de clima se analizan en un workshop de acción que facilita HR con cada equipo. De ese workshop surgen entre 2 y 3 compromisos de mejora concretos que el área se compromete a implementar en los siguientes 6 meses. HR hace seguimiento del cumplimiento de esos compromisos.
+
+Indicadores de clima que monitorea HR:
+- eNPS (Employee Net Promoter Score): objetivo interno > 40
+- Tasa de rotación voluntaria: alerta si supera el 15% anual
+- Ausentismo: alerta si supera el 3% mensual por área
+- Tiempo promedio de cobertura de vacantes: objetivo < 45 días
+
+Programa de bienestar:
+SolvNet ofrece a todos sus empleados acceso gratuito a sesiones de psicología online a través del programa de Asistencia al Empleado (EAP). Cada empleado tiene derecho a 8 sesiones anuales con psicólogos certificados, con total confidencialidad. El programa también incluye asesoramiento financiero personal, orientación legal laboral y coaching de carrera.
+
+Política de desconexión digital:
+SolvNet respeta el derecho a la desconexión digital fuera del horario laboral. Los empleados no están obligados a responder mensajes o correos fuera de su jornada laboral salvo en situaciones de guardia previamente acordadas. Los responsables de área no deben enviar comunicaciones que requieran respuesta inmediata fuera del horario de trabajo habitual.
+
+Espacios de trabajo:
+SolvNet cuenta con oficinas en Buenos Aires (Palermo), Montevideo y Ciudad de México. Los empleados remotos pueden acceder a espacios de coworking a través del acuerdo corporativo con WeWork, con una asignación de hasta 10 días al mes sin costo adicional. Para acceder, deben registrar el uso en el portal de HR con 48 horas de anticipación.
+
+=========================================
+10. POLÍTICAS DE TRABAJO REMOTO E HÍBRIDO
+=========================================
+
+SolvNet SaaS opera bajo un modelo de trabajo híbrido flexible como política corporativa desde enero de 2023. La presencialidad mínima requerida varía según el área:
+- Equipos de Producto, Ingeniería y Data: 1 día presencial por semana
+- Equipos comerciales (Ventas, Customer Success): 2 días presenciales por semana
+- Áreas de soporte (HR, Finanzas, Legal, IT): 2 días presenciales por semana
+- Posiciones de liderazgo (Manager y Director): 3 días presenciales por semana
+
+Los empleados que viven a más de 50 km de la oficina más cercana están exentos de la presencialidad mínima y operan en modalidad 100% remota. Esta condición debe estar documentada en el contrato de trabajo o en un addendum firmado.
+
+Requisitos para el trabajo remoto:
+- Conexión a internet estable con velocidad mínima de 20 Mbps de bajada
+- Espacio de trabajo adecuado con privacidad para videollamadas
+- Disponibilidad en el horario laboral acordado
+- Participación activa en reuniones de equipo con cámara encendida salvo causa justificada
+- Uso de la VPN corporativa para acceder a sistemas internos
+
+La empresa no se hace responsable de los gastos de internet ni de la adecuación del espacio de trabajo del empleado remoto, salvo el bono de conectividad mensual establecido en la política de compensaciones. Los empleados remotos deben tener un espacio de trabajo dedicado y libre de interrupciones para las horas de reuniones.
+
+Horario laboral:
+SolvNet opera bajo un esquema de horario flexible con una ventana de trabajo núcleo de 10:00 a 16:00 hs (hora Argentina) en la que se espera disponibilidad de todos los empleados para reuniones y colaboración sincrónica. El resto de las horas laborales (la jornada estándar es de 8 horas) puede distribuirse según la preferencia del empleado dentro de la franja de 7:00 a 21:00 hs.
+
+=========================================
+11. CÓDIGO DE ÉTICA Y CONDUCTA
+=========================================
+
+El Código de Ética y Conducta de SolvNet SaaS establece los principios y valores que guían el comportamiento de todos los integrantes de la organización, independientemente de su nivel jerárquico. El cumplimiento del Código es condición esencial del vínculo laboral y su violación puede derivar en sanciones disciplinarias que van desde el apercibimiento hasta el despido con causa.
+
+Principios fundamentales:
+- Integridad: actuar con honestidad y transparencia en todas las interacciones, internas y externas.
+- Respeto: tratar a todas las personas con dignidad, independientemente de su rol, origen o condición.
+- Responsabilidad: asumir las consecuencias de las propias acciones y decisiones.
+- Confidencialidad: proteger la información sensible de la empresa, clientes y colegas.
+- Excelencia: comprometerse con la calidad en el trabajo y la mejora continua.
+
+Comportamientos prohibidos:
+- Acoso laboral, sexual o de cualquier tipo, en entornos presenciales o digitales
+- Discriminación por cualquier causa
+- Uso de información privilegiada para beneficio personal o de terceros
+- Falsificación o adulteración de documentos o registros
+- Aceptación de regalos o beneficios de proveedores o clientes que superen el valor de USD 50
+- Uso de recursos de la empresa para actividades personales de naturaleza comercial
+
+Canal de denuncias:
+SolvNet dispone de una línea ética anónima operada por un tercero independiente, accesible en etica.solvnet.com. Las denuncias son investigadas por un Comité de Ética integrado por el Director Legal, el CHRO y un miembro externo independiente. Los denunciantes de buena fe están protegidos contra represalias.
+
+=========================================
+12. RELACIONES SINDICALES Y GREMIALES
+=========================================
+
+Los empleados de SolvNet SaaS están encuadrados en el Convenio Colectivo de Trabajo (CCT) del sector de actividad correspondiente. HR mantiene actualizado el encuadramiento convencional de cada puesto y aplica las condiciones del CCT que resulten más favorables al empleado en caso de superposición con las políticas internas.
+
+Las negociaciones paritarias son seguidas por el área de HR y Legal. Ante cualquier incremento salarial acordado en paritarias, HR actualiza las escalas salariales internas y comunica a los empleados los impactos en sus remuneraciones.
+
+SolvNet reconoce el derecho de los empleados a la libre afiliación sindical y no toma ninguna medida que pueda ser interpretada como obstaculización del ejercicio de ese derecho. Los delegados gremiales elegidos tienen los derechos de tutela sindical previstos en la Ley 23.551.
+
+Los conflictos colectivos de trabajo son gestionados conjuntamente por HR y Legal, con el objetivo de resolverlos a través del diálogo y la negociación antes de que requieran intervención del Ministerio de Trabajo.
+
+=========================================
+13. GESTIÓN DE LA DOCUMENTACIÓN DE EMPLEADOS
+=========================================
+
+HR mantiene un legajo digital para cada empleado que contiene todos los documentos relacionados con la relación laboral. El acceso al legajo está restringido al empleado (solo sus propios documentos), al responsable directo (solo documentos de gestión) y al equipo de HR.
+
+Documentos que integran el legajo:
+- Contrato de trabajo y todos sus addendums
+- Acuerdo de confidencialidad y cesión de derechos de propiedad intelectual
+- Evaluaciones de desempeño de todos los ciclos
+- Certificados de capacitaciones completadas
+- Constancias de licencias y ausencias
+- Apercibimientos o medidas disciplinarias si existieran
+- Recibos de sueldo firmados
+- Formulario F.572 (SIRADIG) actualizado
+
+Los legajos se conservan por el período de la relación laboral más 10 años, en cumplimiento de los plazos de prescripción aplicables. Pasado ese período, se procede a la destrucción segura certificada.
+
+Los empleados tienen derecho a solicitar copia de cualquier documento de su legajo. La solicitud debe realizarse a HR con al menos 48 horas de anticipación y los documentos se entregan en formato digital por email con acuse de recibo.
+
+=========================================
+14. GESTIÓN DE PASANTES Y PROGRAMAS UNIVERSITARIOS
+=========================================
+
+SolvNet SaaS tiene un programa activo de incorporación de pasantes universitarios y recién graduados con el doble objetivo de nutrir el pipeline de talento futuro de la empresa y contribuir a la formación de profesionales en el ecosistema tecnológico regional. El programa se gestiona desde HR con coordinación de cada área receptora.
+
+Condiciones del programa de pasantías:
+Las pasantías en SolvNet tienen una duración de entre 3 y 6 meses con posibilidad de extensión excepcional hasta 12 meses. Los pasantes trabajan entre 20 y 30 horas semanales en modalidad híbrida. Reciben una asignación estímulo mensual acorde con el nivel del mercado para pasantías en empresas de tecnología y, en el caso de pasantías curriculares, el convenio se firma con la institución educativa correspondiente.
+
+El programa de pasantías incluye asignación de un tutor interno, acceso a todas las herramientas corporativas necesarias para el rol, participación en las capacitaciones del programa de onboarding y evaluación mensual del desempeño con feedback documentado. Al finalizar la pasantía, HR emite un certificado de experiencia y, si corresponde, una carta de recomendación.
+
+Programa de ingreso de recién graduados (Graduate Program):
+SolvNet abre dos cohortes anuales de su Graduate Program, con 8 posiciones en total. Los candidatos seleccionados ingresan en un programa de 18 meses con rotación por 3 áreas funcionales diferentes durante los primeros 12 meses, seguido de una asignación definitiva en el área donde mostraron mayor afinidad y desempeño. Los graduados del programa tienen una curva de desarrollo acelerada y acceso prioritario a las primeras posiciones de liderazgo que se abran en la empresa.
+
+=========================================
+15. INDICADORES Y MÉTRICAS DE HR
+=========================================
+
+El área de Recursos Humanos gestiona un dashboard de indicadores de capital humano que se presenta mensualmente al equipo directivo y trimestralmente al Directorio. Estos indicadores permiten monitorear la salud organizacional y anticipar riesgos de talento.
+
+Indicadores de dotación y estructura:
+- Headcount total y por área: seguimiento mensual
+- Ratio de empleados fijos vs contratistas: objetivo < 20% contratistas
+- Distribución por nivel (Junior/Semi/Senior/Lead/Manager/Director): actualización mensual
+- Brecha de género en posiciones de liderazgo (Manager+): objetivo paridad al 2026
+
+Indicadores de atracción de talento:
+- Tiempo promedio de cobertura de posiciones: objetivo < 45 días
+- Costo por contratación: seguimiento trimestral por nivel
+- Tasa de aceptación de ofertas: alerta si cae por debajo del 70%
+- Fuente de los candidatos contratados: para optimizar la inversión en canales de reclutamiento
+
+Indicadores de retención y clima:
+- Tasa de rotación total y voluntaria: seguimiento mensual
+- Tasa de rotación en los primeros 90 días (early attrition): alerta si supera el 5%
+- eNPS (Employee Net Promoter Score): medición semestral, objetivo > 40
+- Tasa de participación en encuestas de clima: objetivo > 80%
+
+Indicadores de desarrollo:
+- Tasa de cobertura de posiciones con candidatos internos: objetivo > 30%
+- Horas promedio de capacitación por empleado por año: objetivo > 40 horas
+- Porcentaje de empleados con Plan de Desarrollo Individual activo: objetivo 100% para niveles Senior

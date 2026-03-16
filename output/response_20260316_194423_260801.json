@@ -1,0 +1,26 @@
+{
+  "timestamp": "20260316_194423_260801",
+  "query": "el sistema esta caido",
+  "domains": [
+    "tech"
+  ],
+  "latency_seconds": 5.718,
+  "agent_outputs": [
+    {
+      "domain": "tech",
+      "retrievers": [
+        "en support.solvnet.internal, seleccionar la categoría correspondiente al problema y completar el formulario con la mayor cantidad de detalles posibles. Los campos obligatorios son: descripción del problema, equipo afectado, sistema operativo, urgencia estimada y captura de pantalla si aplica.\n\nLos tickets se clasifican según su criticidad en cuatro niveles:\n- P1 (Crítico): El sistema está completamente caído o hay un impacto masivo en múltiples usuarios. Tiempo de respuesta: 30 minutos. Tiempo de resolución objetivo: 4 horas.\n- P2 (Alto): Una funcionalidad importante está degradada o un",
+        "para la plataforma de producción y 24 horas para sistemas administrativos.\n\nEscenarios cubiertos por el DRP:\n- Fallo de la región primaria de AWS\n- Ransomware o ataque de malware que comprometa los sistemas\n- Pérdida física de las instalaciones de oficina\n- Fallo masivo de servicios de Microsoft 365\n- Pérdida de conectividad de internet prolongada\n\nEn caso de activación del DRP, el Comité de Crisis (CTO, CEO, Director IT) toma las decisiones. IT ejecuta el plan siguiendo el runbook documentado. Las comunicaciones a los empleados y clientes son coordinadas por el área de Comunicaciones con",
+        "el tráfico hacia sistemas internos se enruta por el túnel corporativo.\n\nMonitoreo y disponibilidad:\nIT mantiene un tablero de estado de servicios accesible en status.solvnet.internal que muestra en tiempo real la disponibilidad de todos los sistemas críticos. Los empleados pueden suscribirse a notificaciones de incidentes. El objetivo de disponibilidad (SLA interno) para sistemas de producción es del 99,5% mensual.\n\n=========================================\n6. SOFTWARE AUTORIZADO Y LICENCIAS\n=========================================\n\nSolvNet gestiona un catálogo de software autorizado",
+        "equipo de IT Infrastructure mantiene un sistema de monitoreo integral de todos los servicios y aplicaciones de SolvNet. La plataforma principal de observabilidad es Datadog, donde se consolidan métricas, logs, trazas distribuidas y alertas de todos los ambientes.\n\nNiveles de monitoreo:\n- Infraestructura: CPU, memoria, disco, red de todos los servidores y contenedores en AWS. Alertas configuradas para umbrales de utilización.\n- Aplicaciones: tiempo de respuesta, tasa de errores, throughput de las APIs de la plataforma SolvNet. El SLA de tiempo de respuesta de las APIs críticas es de 500ms en el"
+      ]
+    }
+  ],
+  "scores": {
+    "relevance": 1.0,
+    "completeness": 0.8,
+    "accuracy": 1.0,
+    "reasoning": "La respuesta es relevante ya que aborda directamente la situación de que el sistema está caído y proporciona instrucciones sobre cómo proceder. Sin embargo, aunque cubre aspectos importantes, podría haber incluido más detalles sobre qué hacer mientras se espera la resolución del ticket o información sobre a quién contactar en caso de urgencias. La información proporcionada es correcta y consistente."
+  },
+  "final_answer": "Si el sistema está caído, es importante clasificar el ticket como P1 (Crítico) en el portal de soporte SolvNet. Asegúrate de seleccionar la categoría adecuada y completar el formulario con todos los detalles necesarios, como la descripción del problema, el equipo afectado, el sistema operativo, la urgencia estimada y, si es posible, una captura de pantalla. El tiempo de respuesta para un ticket P1 es de 30 minutos, y el objetivo de resolución es de 4 horas.\n\nSi necesitas más información sobre el uso de software o licencias, recuerda que el catálogo de software autorizado está disponible en el portal de autoservicio de IT, donde puedes instalar aplicaciones sin aprobación adicional. Para herramientas de IA externas, consulta con tu responsable y abre un ticket de solicitud de software."
+}

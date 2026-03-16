@@ -1,0 +1,26 @@
+{
+  "timestamp": "20260316_193917_542875",
+  "query": "¿Puedo usar ChatGPT u otras IAs para mi trabajo?",
+  "domains": [
+    "tech"
+  ],
+  "latency_seconds": 7.687,
+  "agent_outputs": [
+    {
+      "domain": "tech",
+      "retrievers": [
+        "Necesitás tus credenciales corporativas y el código de MFA para conectarte.\n\n¿Puedo usar ChatGPT u otras IAs para mi trabajo?\nEl uso de herramientas de IA externas está bajo evaluación. Por el momento, podés usar las herramientas de IA integradas en Microsoft 365 (Copilot). Para otras herramientas, consultá con tu responsable y abrí un ticket de solicitud de software.\n\n¿Cómo reporto un correo sospechoso?\nUsá el botón \"Reportar phishing\" integrado en Outlook. Si ya hiciste clic en un enlace sospechoso, avisá de inmediato a security@solvnet.com y abrí un ticket P1.\n\n¿Qué hago si mi notebook no",
+        "Teams como plataforma principal de comunicación interna y videoconferencias. Todos los empleados tienen acceso a Teams con su cuenta corporativa. La estructura de canales en Teams debe seguir las guías de organización publicadas en el portal interno para evitar la proliferación de canales sin uso.\n\nBuenas prácticas en videoconferencias:\n- Conectarse con al menos 2 minutos de anticipación a reuniones con clientes o externos\n- Usar auriculares para mejorar la calidad de audio y reducir el ruido de fondo\n- Encender la cámara cuando sea posible para reuniones de equipo (no es obligatorio pero sí",
+        "Stream y el organizador es responsable de compartir el acceso o eliminar la grabación cuando no sea necesaria.\n\nTelefonía:\nSolvNet utiliza Microsoft Teams Phone como sistema de telefonía VoIP. Los empleados con necesidad de línea telefónica (atención al cliente, ventas) tienen asignado un número corporativo en Teams. Las llamadas salientes a clientes deben realizarse desde el número corporativo para que el cliente identifique a SolvNet como emisor.\n\n=========================================\n14. MONITOREO Y OBSERVABILIDAD DE SISTEMAS\n=========================================\n\nEl equipo de IT",
+        "Gestión de contraseñas: 1Password (licencia corporativa)\n- Herramientas de diseño: Figma (para equipos de Producto y Diseño)\n- IDEs: Visual Studio Code, IntelliJ IDEA, PyCharm (para equipos técnicos)\n- Seguridad: Microsoft Defender, CrowdStrike Falcon\n\nSoftware de uso restringido (requiere aprobación):\n- Herramientas de IA generativa externas (se evalúa caso por caso por razones de privacidad de datos)\n- Software de monitoreo de red o captura de tráfico\n- Herramientas de acceso remoto a terceros (TeamViewer, AnyDesk)\n- VPNs de terceros en dispositivos"
+      ]
+    }
+  ],
+  "scores": {
+    "relevance": 1.0,
+    "completeness": 1.0,
+    "accuracy": 1.0,
+    "reasoning": "La respuesta aborda directamente la pregunta sobre el uso de ChatGPT y otras IAs en el trabajo, proporcionando información relevante sobre la necesidad de aprobación y el uso de herramientas integradas. Cubre todos los aspectos importantes y la información presentada es correcta y coherente."
+  },
+  "final_answer": "Puedes utilizar herramientas de IA como ChatGPT en tu trabajo, pero hay ciertas consideraciones a tener en cuenta. Actualmente, el uso de herramientas de IA externas está bajo evaluación y se requiere aprobación formal para su uso. Sin embargo, puedes acceder a las herramientas de IA integradas en Microsoft 365, como Copilot, sin necesidad de aprobación adicional.\n\nAdemás, es importante que consultes con tu responsable antes de utilizar cualquier herramienta de IA externa y que abras un ticket de solicitud de software si es necesario. Recuerda que el uso de software no autorizado o restringido puede tener implicaciones, por lo que es recomendable seguir los procedimientos establecidos por el departamento de IT.\n\nSi necesitas más información sobre el uso de software específico o licencias, no dudes en preguntar."
+}

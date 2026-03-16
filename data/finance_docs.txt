@@ -1,0 +1,263 @@
+=========================================
+1. GESTIÓN DE GASTOS Y REEMBOLSOS
+=========================================
+
+SolvNet SaaS reconoce los gastos operativos en que incurren los empleados en el ejercicio de sus funciones laborales, sujeto a las políticas y límites establecidos en este documento. Todo gasto debe contar con comprobante fiscal válido (factura A o B según corresponda) y ser registrado en la plataforma de gestión de gastos Concur dentro de los 30 días corridos de realizado.
+
+Gastos elegibles para reembolso:
+- Viáticos por viajes de negocio aprobados (transporte, alojamiento, alimentación)
+- Material de oficina para trabajo remoto (hasta $5.000 mensuales sin aprobación adicional)
+- Libros y materiales de capacitación relacionados con el rol
+- Suscripciones a herramientas de trabajo aprobadas por IT
+- Gastos de representación con clientes (con autorización previa del responsable)
+
+Proceso de reembolso:
+1. El empleado carga el gasto en Concur adjuntando el comprobante escaneado o fotografiado.
+2. El responsable directo aprueba o rechaza el gasto en Concur con comentario obligatorio en caso de rechazo.
+3. Finanzas valida la categoría, los límites y la documentación fiscal.
+4. El reembolso se acredita en la cuenta bancaria informada en el HRMS en el siguiente ciclo de pago (los días 10 y 25 de cada mes).
+
+Límites por categoría sin aprobación adicional del área de Finanzas:
+- Alimentación por día de viaje: hasta $8.000 en Argentina, hasta USD 50 en el exterior
+- Alojamiento por noche: hasta $30.000 en Argentina, hasta USD 150 en el exterior
+- Transporte terrestre por día: hasta $5.000 en Argentina
+- Pasajes aéreos: requieren aprobación previa sin importar el monto
+- Gastos de representación: requieren aprobación del N+2 para montos superiores a $20.000
+
+Los gastos cargados fuera del plazo de 30 días pueden ser rechazados. Los gastos realizados sin aprobación previa cuando esta era requerida no son elegibles para reembolso.
+
+=========================================
+2. FACTURACIÓN Y CUENTAS POR COBRAR
+=========================================
+
+El ciclo de facturación de SolvNet SaaS a sus clientes varía según el tipo de contrato. Los clientes bajo modelo de suscripción mensual son facturados el primer día hábil de cada mes por el período vencido. Los clientes bajo contratos anuales son facturados al inicio del período según las condiciones negociadas.
+
+El equipo de Finanzas emite las facturas electrónicas a través del sistema de gestión ERP SAP Business One, integrado con el portal de AFIP para la emisión automática de comprobantes electrónicos. Todas las facturas llevan un número de orden de compra (PO) del cliente cuando este lo requiere.
+
+Condiciones de pago estándar:
+- Facturación en pesos argentinos: 30 días corridos desde la fecha de emisión
+- Facturación en dólares (contratos internacionales): 45 días desde la fecha de emisión
+- Clientes enterprise con contrato negociado: según las condiciones específicas del contrato
+
+El proceso de cobranza ante facturas vencidas es:
+- Día 1 de vencimiento: notificación automática por email al contacto de cuentas por pagar del cliente
+- Día 7: contacto telefónico del equipo de Customer Finance
+- Día 15: escalada al ejecutivo de cuenta y al responsable comercial
+- Día 30: inicio de proceso formal de cobranza con intervención del área Legal
+
+SolvNet aplica una penalidad por mora del 2% mensual sobre el saldo vencido, salvo acuerdo escrito en contrario. Los clientes con facturas vencidas a más de 60 días tienen suspendido el acceso a nuevas funcionalidades premium hasta regularizar su situación.
+
+=========================================
+3. PRESUPUESTO Y PLANIFICACIÓN FINANCIERA
+=========================================
+
+El proceso de planificación presupuestaria en SolvNet SaaS comienza en octubre de cada año para el ejercicio siguiente. Cada área funcional recibe una plantilla de presupuesto en Excel (conectada al ERP) y debe completarla con las proyecciones de gastos e inversiones para el año siguiente.
+
+Los presupuestos son revisados en tres instancias: revisión por el responsable de área, revisión por el CFO y aprobación final por el Directorio. El presupuesto aprobado se comunica a todas las áreas antes del 1° de diciembre.
+
+Durante el año, se realizan revisiones trimestrales del presupuesto (Budget Review) donde cada área reporta la ejecución real versus el presupuestado y justifica las desviaciones. Una desviación de más del 10% en cualquier línea presupuestaria mayor requiere nota explicativa formal al CFO.
+
+Las solicitudes de gasto no presupuestado (fuera del presupuesto aprobado) deben ser tramitadas a través del proceso de "Budget Exception Request". Este proceso requiere justificación de negocio, análisis de impacto en el resultado del período y aprobación del CFO y CEO para montos superiores a USD 5.000.
+
+Indicadores financieros clave que monitorea el área:
+- MRR (Monthly Recurring Revenue): seguimiento semanal
+- Churn Rate: medición mensual, alerta si supera el 3%
+- CAC (Customer Acquisition Cost): medición mensual por canal
+- LTV (Lifetime Value): actualización trimestral por segmento
+- Burn Rate: seguimiento semanal para evaluación de runway
+- Gross Margin: medición mensual, objetivo interno > 75%
+
+=========================================
+4. NÓMINA Y LIQUIDACIÓN DE HABERES
+=========================================
+
+La liquidación de sueldos en SolvNet SaaS es procesada por el área de Finanzas en coordinación con HR. El cierre de novedades (horas extras, licencias, descuentos, incrementos) se realiza el día 20 de cada mes. Las novedades posteriores a esa fecha se procesan en el mes siguiente salvo casos excepcionales autorizados por el CFO.
+
+El pago de sueldos se acredita el último día hábil de cada mes en las cuentas bancarias informadas por los empleados en el HRMS. El recibo de sueldo digital se publica en el portal de HRMS entre los días 1 y 5 del mes siguiente. Los recibos deben ser firmados digitalmente por el empleado dentro de los 10 días de su publicación.
+
+Las deducciones de nómina estándar incluyen: aportes jubilatorios (11%), obra social empleado (3%), INSSJP/PAMI (3%), aporte sindical si aplica (2%), y los impuestos que correspondan según la escala del Impuesto a las Ganancias de Cuarta Categoría.
+
+SolvNet liquida horas extras a los empleados de las categorías que lo contemplan según el convenio colectivo aplicable. Las horas extras deben ser autorizadas previamente por el responsable directo y registradas en el sistema de control horario. Las horas extras no autorizadas no son liquidadas.
+
+Las bonificaciones y premios por desempeño son considerados remuneración a todos los efectos legales y están sujetos a los aportes y contribuciones correspondientes. SolvNet no realiza pagos informales bajo ninguna circunstancia.
+
+=========================================
+5. COMPRAS Y PROVEEDORES
+=========================================
+
+El área de Finanzas gestiona el proceso de compras corporativas en coordinación con las áreas solicitantes. Toda adquisición debe seguir el proceso formal de compras independientemente del monto, con los niveles de aprobación que se detallan a continuación.
+
+Proceso de compras:
+1. El área solicitante completa la Solicitud de Compra (SC) en el ERP con descripción del bien o servicio, justificación, proveedor sugerido y monto estimado.
+2. Finanzas valida la disponibilidad presupuestaria y asigna un número de SC.
+3. Para compras superiores a USD 3.000, se solicitan al menos 3 cotizaciones comparativas.
+4. La aprobación final corresponde al responsable del área solicitante para montos hasta USD 2.000, al CFO para montos hasta USD 20.000, y al CEO y CFO conjuntamente para montos superiores.
+
+Alta de proveedores:
+Todo proveedor nuevo debe ser dado de alta en el sistema antes de procesar cualquier pago. El proceso de alta requiere: CUIT del proveedor, datos bancarios (CBU/IBAN para proveedores del exterior), constancia de inscripción en AFIP, y en casos de contratación de servicios, un Certificado de Cobertura de ART. Finanzas verifica la situación fiscal del proveedor en AFIP antes de aprobar el alta.
+
+Política anticorrupción:
+SolvNet tiene una política de tolerancia cero ante actos de corrupción, soborno o conflicto de interés en los procesos de compras. Los empleados involucrados en decisiones de compra deben declarar cualquier relación personal o comercial con proveedores o potenciales proveedores. Las violaciones a esta política son causal de despido con causa.
+
+=========================================
+6. IMPUESTOS Y CUMPLIMIENTO FISCAL
+=========================================
+
+SolvNet SaaS es responsable inscripto en IVA y tributante del Impuesto a las Ganancias. El área de Finanzas, con el apoyo de los asesores impositivos externos, gestiona el cumplimiento de todas las obligaciones fiscales ante AFIP y los organismos provinciales y municipales que correspondan.
+
+Calendario fiscal principal:
+- IVA: presentación y pago mensual, vencimiento según terminación de CUIT
+- Impuesto a las Ganancias: anticipos bimestrales, declaración jurada anual en junio
+- Ingresos Brutos (CABA y provincias con presencia): liquidación mensual
+- Cargas sociales patronales: presentación y pago mensual junto con el F.931
+
+Los empleados que perciban ingresos por encima del mínimo no imponible del Impuesto a las Ganancias deben completar el formulario F.572 (SIRADIG Trabajador) en la página web de AFIP para informar las deducciones personales que correspondan. Finanzas calcula y retiene el impuesto mensualmente según la información declarada.
+
+Para los empleados facturantes (monotributistas o responsables inscriptos que prestan servicios a SolvNet), el tratamiento impositivo es diferente. Finanzas verifica mensualmente la situación fiscal vigente antes de procesar los pagos.
+
+=========================================
+7. PREGUNTAS FRECUENTES DE FINANZAS
+=========================================
+
+¿Cuándo se acredita mi reembolso de gastos?
+Los reembolsos aprobados antes del día 8 se acreditan el día 10 del mismo mes. Los aprobados entre el 9 y el 22 se acreditan el día 25. Los aprobados después del 22 se procesan en el ciclo siguiente.
+
+¿Cómo cargo un gasto en Concur?
+Ingresá a concur.solvnet.com, seleccioná "Nuevo informe de gastos", completá los datos del gasto y adjuntá el comprobante. El sistema valida automáticamente los límites por categoría.
+
+¿Puedo solicitar un adelanto de sueldo?
+SolvNet no otorga adelantos de sueldo como política general. En situaciones de emergencia debidamente justificadas, el empleado puede solicitar una excepción al CFO a través de HR.
+
+¿Cómo obtengo una constancia de ingresos?
+Las constancias de ingresos son emitidas por Finanzas dentro de las 48 horas hábiles de solicitada. Enviá un correo a payroll@solvnet.com con tu nombre completo, CUIL y el fin para el que la necesitás.
+
+¿Qué pasa si pierdo una factura de un gasto?
+Intentá obtener una copia del proveedor. Si no es posible, el gasto puede ser reconocido de forma excepcional con una declaración jurada firmada por el empleado y aprobación del CFO, solo para montos menores a $2.000.
+
+=========================================
+8. GESTIÓN DE CAJA CHICA Y FONDOS FIJOS
+=========================================
+
+SolvNet SaaS mantiene fondos de caja chica en cada una de sus oficinas para cubrir gastos operativos de pequeño valor que requieren pago inmediato en efectivo. El monto asignado a cada caja chica varía según el tamaño de la oficina: $50.000 para la oficina de Buenos Aires, $30.000 para Montevideo y el equivalente en moneda local para Ciudad de México.
+
+El responsable de caja chica en cada oficina es designado por el Gerente de Finanzas Regional y debe rendir cuentas semanalmente. Los gastos cubiertos por caja chica son exclusivamente: materiales de oficina de emergencia, gastos de limpieza urgentes, propinas en servicios de catering internos y pequeños gastos de mantenimiento que no admiten demora.
+
+Proceso de rendición de caja chica:
+1. El responsable completa el formulario de rendición con cada gasto, adjuntando el comprobante original.
+2. El formulario es aprobado por el Gerente de Área correspondiente.
+3. Finanzas verifica los comprobantes y repone el fondo hasta el monto asignado.
+4. Los comprobantes originales se archivan físicamente en la oficina y se escanean para el sistema documental.
+
+Los gastos de caja chica no pueden superar los $5.000 por operación individual. Gastos que superen ese monto deben tramitarse por el proceso estándar de compras o reembolsos. Los faltantes de caja no justificados son responsabilidad del custodio y deben ser reintegrados dentro de las 48 horas de detectado el desvío.
+
+=========================================
+9. GESTIÓN DE INVERSIONES Y TESORERÍA
+=========================================
+
+El área de Tesorería dentro de Finanzas gestiona el flujo de caja diario, las inversiones de corto plazo del excedente de liquidez y las posiciones en moneda extranjera. Las políticas de tesorería son aprobadas por el CFO y el Directorio anualmente.
+
+Política de inversiones:
+SolvNet mantiene un nivel mínimo de liquidez equivalente a 3 meses de gastos operativos en instrumentos de bajo riesgo y alta liquidez. Los excedentes sobre ese mínimo pueden ser invertidos en instrumentos de renta fija de corto plazo según la política aprobada. Queda expresamente prohibido invertir en instrumentos de renta variable, criptomonedas o cualquier activo de alta volatilidad con fondos corporativos.
+
+Gestión de moneda extranjera:
+SolvNet factura una parte de sus contratos en dólares estadounidenses. La política de exposición cambiaria establece que la empresa debe mantener equilibrada su posición en divisas, utilizando instrumentos de cobertura cuando la exposición supere el umbral definido trimestralmente. Las decisiones de cobertura cambiaria son tomadas por el CFO con reporte al Directorio.
+
+Proyección de flujo de caja:
+Tesorería elabora una proyección de flujo de caja con horizonte de 13 semanas que se actualiza semanalmente. Esta proyección es la base para las decisiones de inversión del excedente y para la detección temprana de necesidades de financiamiento. El CFO revisa la proyección semanalmente y la presenta al Directorio en la reunión mensual.
+
+=========================================
+10. AUDITORÍA INTERNA Y CONTROLES FINANCIEROS
+=========================================
+
+SolvNet cuenta con una función de Auditoría Interna que reporta directamente al Comité de Auditoría del Directorio. El equipo de Auditoría Interna realiza revisiones periódicas de los controles financieros y operativos para garantizar la integridad de la información financiera y el cumplimiento de las políticas internas.
+
+Plan anual de auditoría:
+El Plan Anual de Auditoría es aprobado por el Comité de Auditoría en el primer trimestre de cada año. Los temas auditados incluyen: ciclo de ingresos y cobranzas, ciclo de compras y pagos, gestión de nómina, controles de acceso a sistemas financieros, gestión de activos fijos y cumplimiento de políticas de gastos y reembolsos.
+
+Controles internos clave:
+- Segregación de funciones: las personas que autorizan un gasto no pueden ser las mismas que lo registran o pagan.
+- Doble firma: todos los pagos superiores a USD 5.000 requieren dos firmas autorizantes.
+- Revisión de conciliaciones: las conciliaciones bancarias se realizan diariamente y son revisadas por un supervisor diferente al que las confeccionó.
+- Control de accesos al ERP: los permisos en SAP Business One son revisados trimestralmente para garantizar que responden al principio de mínimo privilegio.
+
+Hallazgos de auditoría:
+Cuando Auditoría Interna detecta una deficiencia de control, emite un hallazgo formal con una recomendación y un plazo de remediación. El área auditada debe implementar las acciones correctivas en el plazo acordado. Auditoría hace seguimiento del cierre de hallazgos y reporta el estado al Comité de Auditoría trimestralmente.
+
+=========================================
+11. FINANCIAMIENTO Y RELACIÓN CON INVERSORES
+=========================================
+
+SolvNet SaaS ha completado tres rondas de financiamiento desde su fundación: una ronda Seed en 2019 por USD 800.000, una Serie A en 2021 por USD 5 millones y una Serie B en 2023 por USD 18 millones. Los inversores actuales son fondos de venture capital especializados en SaaS latinoamericano y un family office regional.
+
+El área de Finanzas gestiona la relación con los inversores en coordinación con el CEO. Los reportes a inversores se emiten trimestralmente e incluyen: estado de resultados, flujo de caja, balance simplificado, métricas operativas clave y narrative explicativa del período. Los reportes son preparados por Finanzas, revisados por el CFO y aprobados por el CEO antes de su distribución.
+
+Los inversores tienen acceso a un data room virtual en la plataforma Carta donde se publican todos los documentos societarios, financieros y legales relevantes. El acceso al data room es gestionado por Legal y Finanzas conjuntamente.
+
+Los empleados que tengan participación accionaria a través del programa ESOP pueden consultar el estado de su posición en la plataforma Carta. Las preguntas sobre el plan de acciones deben dirigirse a Finanzas, que actúa como administrador del plan en coordinación con Legal y el Directorio.
+
+=========================================
+12. CIERRE CONTABLE MENSUAL Y ANUAL
+=========================================
+
+Finanzas realiza un cierre contable mensual para producir los estados financieros de gestión que se presentan al Directorio. El cierre se completa dentro de los 10 días hábiles posteriores al fin de cada mes. El cierre anual se completa dentro de los 60 días corridos del cierre del ejercicio fiscal (31 de diciembre).
+
+Proceso de cierre mensual:
+- Días 1-3: cierre de los submódulos de compras, ventas y nómina en el ERP
+- Días 4-6: registro de devengamientos, previsiones y ajustes contables manuales
+- Días 7-8: conciliaciones intercompañía y validación de saldos intermodulares
+- Días 9-10: revisión final por el CFO y generación de reportes para el Directorio
+
+El cierre anual incluye adicionalmente la preparación de los estados financieros auditados según las Normas Contables Profesionales (NCP) argentinas, la coordinación con los auditores externos (estudio Big4 contratado para la auditoría financiera anual) y la presentación ante los organismos de control correspondientes.
+
+Política de devengamiento:
+SolvNet reconoce sus ingresos según el principio de devengamiento, siguiendo las disposiciones de la NIIF 15 para la medición del progreso en la satisfacción de obligaciones de desempeño. Los ingresos por suscripción se reconocen en forma lineal a lo largo del período del contrato. Los servicios profesionales se reconocen a medida que se prestan.
+
+=========================================
+13. GESTIÓN DE DEUDA Y FINANCIAMIENTO BANCARIO
+=========================================
+
+SolvNet mantiene líneas de crédito abiertas con dos bancos de primera línea en Argentina para cubrir necesidades de capital de trabajo estacionales. Las líneas de crédito están garantizadas por la facturación recurrente de la empresa y tienen tasas negociadas por debajo de las condiciones de mercado gracias al historial crediticio de SolvNet.
+
+El CFO es la única persona autorizada para activar una línea de crédito o tomar cualquier tipo de financiamiento bancario. Cada operación de endeudamiento requiere aprobación del Directorio cuando supera el equivalente a USD 100.000 o cuando implica la constitución de garantías sobre activos de la empresa.
+
+La política de endeudamiento establece que el ratio Deuda Financiera Neta / EBITDA no puede superar 2x en condiciones normales de operación. Finanzas monitorea este indicador mensualmente y alerta al CFO y al Directorio si se proyecta una aproximación al límite establecido.
+
+Los contratos de crédito con los bancos incluyen covenants financieros que Finanzas monitorea y reporta trimestralmente a los bancos. El incumplimiento de un covenant debe ser comunicado al banco dentro de los plazos establecidos en el contrato y gestionado por el CFO con apoyo de Legal.
+
+=========================================
+14. POLÍTICA DE VIAJES CORPORATIVOS
+=========================================
+
+Los viajes de negocio de empleados de SolvNet deben ser aprobados con anticipación por el responsable directo y registrados en la plataforma de gestión de viajes TravelPerk, donde se centraliza la reserva de pasajes, alojamiento y traslados. El área de Finanzas supervisa el cumplimiento de los límites establecidos en la política de viajes.
+
+Categorías de viaje y condiciones:
+Para vuelos nacionales, se autoriza clase económica sin restricciones de aerolínea. Para vuelos internacionales de hasta 6 horas, se autoriza clase económica. Para vuelos internacionales de más de 6 horas, los empleados de nivel Manager y superior pueden solicitar clase ejecutiva previa aprobación del CFO. En todos los casos se prioriza la tarifa más económica disponible con al menos 7 días de anticipación.
+
+Alojamiento en viajes de negocio:
+Las reservas de alojamiento deben realizarse a través de TravelPerk para acceder a las tarifas corporativas negociadas. Los hoteles deben estar ubicados en zonas seguras y con acceso razonable al lugar de reuniones. El límite de alojamiento establecido en el punto 1 de este documento aplica para reservas realizadas por fuera de TravelPerk; las reservas dentro de la plataforma se aprueban según la tarifa corporativa disponible.
+
+Viáticos en destino:
+Los empleados en viaje de negocio reciben una asignación diaria de viáticos para cubrir alimentación y traslados menores. Esta asignación se acredita preventivamente en la tarjeta corporativa o se adelanta en efectivo según el destino. Al regreso, el empleado debe rendir los gastos reales en Concur dentro de los 5 días hábiles. Los montos no rendidos son descontados de la nómina del mes siguiente.
+
+Tarjeta corporativa de viajes:
+Los empleados que viajan frecuentemente (más de 4 veces al año) tienen asignada una tarjeta corporativa para gastos de viaje. El uso de la tarjeta está limitado a gastos de viaje aprobados. Los extractos de la tarjeta son revisados mensualmente por Finanzas y cualquier gasto no justificado debe ser reintegrado por el empleado dentro de los 10 días de notificado.
+
+=========================================
+15. INDICADORES Y REPORTES FINANCIEROS
+=========================================
+
+Finanzas produce reportes periódicos para distintas audiencias internas y externas. La cadencia y el contenido de cada reporte están definidos en el calendario de reportes financieros aprobado por el CFO.
+
+Reportes internos:
+- Flash financiero semanal: resumen de ingresos, egresos y posición de caja de la semana. Destinatario: CEO y CFO.
+- Reporte mensual de gestión: estados financieros completos con análisis de desvíos versus presupuesto y versus el mismo período del año anterior. Destinatarios: Directorio y equipo directivo.
+- Dashboard de métricas SaaS: MRR, ARR, Churn, NRR, CAC, LTV, actualizado semanalmente en Looker. Destinatarios: toda la empresa.
+- Reporte de forecast trimestral: actualización de la proyección del año con análisis de escenarios. Destinatarios: Directorio e inversores.
+
+Reportes externos:
+- Declaraciones juradas impositivas mensuales y anuales: AFIP
+- Reporte trimestral a inversores: fondos de VC accionistas
+- Estados financieros auditados anuales: auditores externos, AFIP, potenciales nuevos inversores
+- Reportes al BCRA para operaciones de cambio: ante cada operación de compraventa de divisas o cobro de exportaciones
+
+La confidencialidad de la información financiera es crítica. Los reportes internos están clasificados como "Confidencial" y no pueden ser compartidos fuera de SolvNet sin autorización expresa del CFO. Los empleados que tengan acceso a información financiera no pública de SolvNet están sujetos a las restricciones de uso de información privilegiada establecidas en el Código de Ética.

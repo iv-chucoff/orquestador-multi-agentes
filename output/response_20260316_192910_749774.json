@@ -1,0 +1,26 @@
+{
+  "timestamp": "20260316_192910_749774",
+  "query": "¿Cómo es el proceso de cobranza de facturas vencidas?",
+  "domains": [
+    "finance"
+  ],
+  "latency_seconds": 7.269,
+  "agent_outputs": [
+    {
+      "domain": "finance",
+      "retrievers": [
+        "lo requiere.\n\nCondiciones de pago estándar:\n- Facturación en pesos argentinos: 30 días corridos desde la fecha de emisión\n- Facturación en dólares (contratos internacionales): 45 días desde la fecha de emisión\n- Clientes enterprise con contrato negociado: según las condiciones específicas del contrato\n\nEl proceso de cobranza ante facturas vencidas es:\n- Día 1 de vencimiento: notificación automática por email al contacto de cuentas por pagar del cliente\n- Día 7: contacto telefónico del equipo de Customer Finance\n- Día 15: escalada al ejecutivo de cuenta y al responsable comercial\n- Día 30:",
+        "varía según el tipo de contrato. Los clientes bajo modelo de suscripción mensual son facturados el primer día hábil de cada mes por el período vencido. Los clientes bajo contratos anuales son facturados al inicio del período según las condiciones negociadas.\n\nEl equipo de Finanzas emite las facturas electrónicas a través del sistema de gestión ERP SAP Business One, integrado con el portal de AFIP para la emisión automática de comprobantes electrónicos. Todas las facturas llevan un número de orden de compra (PO) del cliente cuando este lo requiere.\n\nCondiciones de pago estándar:\n- Facturación",
+        "al ejecutivo de cuenta y al responsable comercial\n- Día 30: inicio de proceso formal de cobranza con intervención del área Legal\n\nSolvNet aplica una penalidad por mora del 2% mensual sobre el saldo vencido, salvo acuerdo escrito en contrario. Los clientes con facturas vencidas a más de 60 días tienen suspendido el acceso a nuevas funcionalidades premium hasta regularizar su situación.\n\n=========================================\n3. PRESUPUESTO Y PLANIFICACIÓN FINANCIERA\n=========================================\n\nEl proceso de planificación presupuestaria en SolvNet SaaS comienza en octubre de",
+        "con tu nombre completo, CUIL y el fin para el que la necesitás.\n\n¿Qué pasa si pierdo una factura de un gasto?\nIntentá obtener una copia del proveedor. Si no es posible, el gasto puede ser reconocido de forma excepcional con una declaración jurada firmada por el empleado y aprobación del CFO, solo para montos menores a $2.000.\n\n=========================================\n8. GESTIÓN DE CAJA CHICA Y FONDOS FIJOS\n=========================================\n\nSolvNet SaaS mantiene fondos de caja chica en cada una de sus oficinas para cubrir gastos operativos de pequeño valor que requieren pago inmediato"
+      ]
+    }
+  ],
+  "scores": {
+    "relevance": 1.0,
+    "completeness": 1.0,
+    "accuracy": 1.0,
+    "reasoning": "La respuesta aborda directamente el proceso de cobranza de facturas vencidas, describiendo cada paso de manera clara y detallada. Cubre todos los aspectos relevantes del proceso, incluyendo las acciones tomadas en diferentes plazos y las penalidades aplicadas. La información presentada parece correcta y consistente, sin contradicciones."
+  },
+  "final_answer": "El proceso de cobranza de facturas vencidas en SolvNet se lleva a cabo de la siguiente manera:\n\n1. **Día 1 de vencimiento**: Se envía una notificación automática por email al contacto de cuentas por pagar del cliente.\n2. **Día 7**: El equipo de Customer Finance realiza un contacto telefónico con el cliente.\n3. **Día 15**: Se escalada la situación al ejecutivo de cuenta y al responsable comercial.\n4. **Día 30**: Se inicia un proceso formal de cobranza con la intervención del área Legal.\n\nAdemás, SolvNet aplica una penalidad por mora del 2% mensual sobre el saldo vencido, a menos que exista un acuerdo escrito en contrario. Los clientes con facturas vencidas por más de 60 días verán suspendido su acceso a nuevas funcionalidades premium hasta que regularicen su situación."
+}

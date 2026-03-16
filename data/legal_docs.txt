@@ -1,0 +1,256 @@
+=========================================
+1. CONTRATOS CON CLIENTES
+=========================================
+
+El área Legal de SolvNet SaaS es responsable de revisar, redactar y aprobar todos los contratos comerciales que la empresa suscribe con sus clientes, proveedores, socios y empleados. Ningún contrato puede ser firmado en representación de SolvNet sin la previa revisión del área Legal y la firma de un apoderado debidamente autorizado.
+
+Los modelos contractuales estándar utilizados por SolvNet son:
+- Contrato de Servicios SaaS (CSaaS): para clientes que contratan la plataforma bajo modelo de suscripción.
+- Acuerdo de Nivel de Servicio (SLA): adjunto obligatorio al CSaaS que define las métricas de disponibilidad y los créditos por incumplimiento.
+- Acuerdo de Confidencialidad (NDA): para intercambio de información sensible previo o durante negociaciones comerciales.
+- Contrato de Prestación de Servicios Profesionales (SPP): para proyectos de implementación, consultoría o desarrollo a medida.
+- Acuerdo de Procesamiento de Datos (DPA): obligatorio para clientes sujetos a normativas de protección de datos como GDPR o la Ley 25.326 argentina.
+
+Los contratos con clientes enterprise o con condiciones no estándar deben ser aprobados por el Director Legal. Los modelos estándar pueden ser firmados por el Gerente Comercial dentro de los límites de autorización definidos por el Directorio.
+
+Modificaciones contractuales:
+Cualquier addendum, enmienda o modificación a un contrato vigente sigue el mismo proceso de revisión y aprobación que el contrato original. No se aceptan acuerdos verbales ni compromisos por correo electrónico como modificaciones contractuales válidas salvo que así lo establezca expresamente el contrato.
+
+=========================================
+2. PROTECCIÓN DE DATOS Y PRIVACIDAD
+=========================================
+
+SolvNet SaaS procesa datos personales de sus clientes y los usuarios finales de la plataforma en calidad de responsable del tratamiento o encargado del tratamiento, según el caso. La empresa está comprometida con el cumplimiento de la Ley 25.326 de Protección de Datos Personales (Argentina) y, en la medida aplicable, con el Reglamento General de Protección de Datos (GDPR) de la Unión Europea.
+
+Principios del tratamiento de datos:
+- Licitud y transparencia: los datos se recopilan con base legal válida y se informa a los titulares sobre su tratamiento.
+- Limitación de finalidad: los datos se utilizan exclusivamente para los fines declarados al momento de la recopilación.
+- Minimización: se recopilan únicamente los datos estrictamente necesarios para cumplir la finalidad.
+- Exactitud: se implementan procesos para mantener los datos actualizados.
+- Limitación del plazo de conservación: los datos se eliminan o anonomizan una vez cumplida la finalidad o el plazo legal de conservación.
+- Integridad y confidencialidad: se aplican medidas técnicas y organizativas para proteger los datos.
+
+El Registro de Actividades de Tratamiento (RAT) es mantenido por el área Legal en colaboración con IT y debe estar actualizado permanentemente. Todo nuevo proceso que implique tratamiento de datos personales debe ser comunicado al área Legal para su evaluación de impacto (EIPD si corresponde) y registro en el RAT.
+
+Solicitudes de derechos de los titulares:
+Los titulares de datos pueden ejercer sus derechos de acceso, rectificación, cancelación y oposición (ARCO) a través del correo privacidad@solvnet.com. El área Legal tiene 30 días hábiles para responder estas solicitudes desde su recepción. Para solicitudes de eliminación de datos, se coordina con IT para la ejecución técnica.
+
+En caso de brecha de seguridad que afecte datos personales, el área Legal y el equipo de IT deben coordinar la respuesta dentro de las 72 horas de detectado el incidente, notificar a la Agencia de Acceso a la Información Pública (Argentina) si corresponde, y comunicar a los titulares afectados según la normativa aplicable.
+
+=========================================
+3. PROPIEDAD INTELECTUAL
+=========================================
+
+Todos los desarrollos, creaciones, inventos, diseños, software, documentación y cualquier otro activo intangible creado por los empleados de SolvNet SaaS en el marco de su relación laboral son propiedad exclusiva de la empresa. Esta cesión de derechos queda establecida en el contrato de trabajo y los empleados renuncian expresamente a cualquier reclamo sobre la autoría patrimonial de dichas creaciones.
+
+Política de código fuente y secreto industrial:
+El código fuente de la plataforma SolvNet es considerado secreto industrial y está protegido por las disposiciones de la Ley 11.723 (Propiedad Intelectual) y el artículo 159 del Código Penal. Los empleados que tengan acceso al código fuente están obligados a mantener su confidencialidad durante y después de la relación laboral, según los términos del Acuerdo de Confidencialidad firmado al ingreso.
+
+El uso de librerías y componentes de código abierto (open source) en los productos de SolvNet está sujeto a la Política de Software Open Source aprobada por Legal e IT. No se puede incorporar código bajo licencias copyleft fuertes (como GPL v3) en componentes del producto principal sin revisión y aprobación de Legal. Las licencias permisivas (MIT, Apache 2.0, BSD) están generalmente aprobadas.
+
+Marcas registradas:
+La marca "SolvNet" y el logotipo asociado están registrados ante el Instituto Nacional de la Propiedad Industrial (INPI) en las clases 35, 38 y 42 del Nomenclador de Niza. El uso de la marca por parte de terceros (clientes, socios, medios) debe ajustarse a las Brand Guidelines publicadas en el portal de Marketing. Cualquier uso no autorizado o que pueda generar confusión en el mercado debe ser reportado al área Legal.
+
+=========================================
+4. CONTRATOS LABORALES Y RELACIONES CON EMPLEADOS
+=========================================
+
+El área Legal elabora y revisa todos los contratos laborales, addendums, acuerdos de confidencialidad y otros documentos relacionados con la relación laboral. Los modelos de contratos están actualizados según la legislación vigente y son revisados ante cualquier cambio normativo relevante.
+
+Tipos de relación laboral en SolvNet:
+- Relación de dependencia: régimen general bajo la Ley de Contrato de Trabajo (LCT)
+- Contratación por obra o plazo fijo: utilizados excepcionalmente para proyectos específicos con justificación documentada
+- Prestación de servicios (facturantes): para roles de consultoría puntual, sujeto a los límites legales que diferencian la relación de dependencia de la locación de servicios
+
+El área Legal es consultada ante cualquier situación que pueda derivar en conflicto laboral: suspensiones, apercibimientos, despidos con causa, impugnaciones de evaluaciones de desempeño o denuncias de acoso. No se deben tomar medidas disciplinarias significativas sin consulta previa a Legal y HR.
+
+Acuerdos de desvinculación:
+Las desvinculaciones que impliquen el pago de una indemnización negociada o la firma de un acuerdo de extinción del vínculo laboral por mutuo acuerdo deben ser instrumentados con asistencia del área Legal. Todos los acuerdos deben homologarse ante el Ministerio de Trabajo de la Nación para tener plena validez liberatoria.
+
+=========================================
+5. CUMPLIMIENTO REGULATORIO Y GOBIERNO CORPORATIVO
+=========================================
+
+SolvNet SaaS opera bajo la normativa societaria de la Ley 19.550 de Sociedades Comerciales como Sociedad Anónima. El área Legal es responsable de mantener al día los registros societarios, las actas de directorio y asamblea, y los libros contables y legales obligatorios.
+
+Cumplimiento en materia de prevención del lavado de activos:
+SolvNet está obligada a cumplir con las normas de la Unidad de Información Financiera (UIF) en materia de prevención del lavado de dinero y financiamiento del terrorismo. El Oficial de Cumplimiento designado es responsable de implementar el Programa de Prevención y de reportar operaciones sospechosas a la UIF cuando corresponda. Los empleados que detecten operaciones inusuales o sospechosas deben reportarlas al Oficial de Cumplimiento sin demora.
+
+Auditorías externas e inspecciones:
+Ante cualquier requerimiento de organismos de control (AFIP, Ministerio de Trabajo, BCRA si aplica, organismos de protección al consumidor), el área Legal debe ser notificada de inmediato y será el punto de contacto oficial con el organismo. No se debe entregar documentación ni dar declaraciones a inspectores sin la presencia o autorización previa del área Legal.
+
+Política de conflicto de intereses:
+Los empleados que tengan participación accionaria, familiar directa o relación comercial con competidores, clientes o proveedores de SolvNet deben declararlo ante Legal y HR. Las situaciones de conflicto de interés no declaradas pueden ser causal de despido con causa.
+
+=========================================
+6. GESTIÓN DE LITIGIOS Y DISPUTAS
+=========================================
+
+El área Legal gestiona todos los procesos judiciales y extrajudiciales en los que SolvNet sea parte actora o demandada. El Director Legal reporta mensualmente al Directorio sobre el estado de los litigios activos, las contingencias estimadas y las provisiones contables recomendadas en coordinación con Finanzas.
+
+Proceso ante demanda recibida:
+1. El empleado que reciba una notificación judicial o extrajudicial debe remitirla de inmediato al área Legal sin responderla.
+2. Legal evalúa la demanda, define la estrategia de defensa y, si corresponde, contrata al estudio de abogados externos especializado.
+3. Legal informa a Finanzas para la constitución de la provisión contable correspondiente según la probabilidad estimada del resultado.
+4. Legal reporta el caso al Directorio si el monto reclamado supera los USD 50.000 o si implica un riesgo reputacional significativo.
+
+Política de mediación y conciliación:
+SolvNet privilegia la resolución de disputas por medios alternativos (mediación, conciliación) cuando estos son viables y no implican reconocimiento de responsabilidad. Esta postura reduce los costos de litigación y preserva las relaciones comerciales. La decisión de aceptar un acuerdo extrajudicial corresponde al Director Legal para montos inferiores a USD 30.000 y al CEO y Directorio para montos superiores.
+
+=========================================
+7. PREGUNTAS FRECUENTES DE LEGALES
+=========================================
+
+¿Cómo solicito la revisión de un contrato?
+Enviá el contrato en formato editable (Word) a legal@solvnet.com con una descripción del contexto y el plazo máximo para la firma. Los contratos estándar se revisan en 2 días hábiles. Los contratos complejos o no estándar pueden requerir hasta 7 días hábiles.
+
+¿Puedo firmar un NDA con un cliente por mi cuenta?
+No. Todos los NDAs deben ser firmados por un apoderado de SolvNet. Podés utilizar el modelo estándar de NDA disponible en la carpeta de Legal en SharePoint. Si el cliente propone su propio modelo, debe ser revisado por Legal antes de la firma.
+
+¿Qué hago si recibo una carta documento?
+No la respondas ni la rechaces. Fotocópiala y enviala de inmediato a legal@solvnet.com. El área Legal determinará la respuesta y los plazos aplicables.
+
+¿Podemos usar imágenes de internet en nuestros materiales de marketing?
+Solo si cuentan con licencia de uso comercial (Creative Commons CC0, CC BY, o similares) o si fueron adquiridas a través de los servicios de banco de imágenes con licencia contratados por Marketing. Ante la duda, consultá a Legal antes de usar.
+
+¿Cómo reporto una posible violación a la política de protección de datos?
+Reportá de inmediato a privacidad@solvnet.com y a tu responsable directo. No intentes resolver el incidente de forma autónoma, ya que los plazos regulatorios son estrictos y requieren coordinación entre Legal e IT.
+
+=========================================
+8. GESTIÓN DE LICENCIAS DE SOFTWARE Y OPEN SOURCE
+=========================================
+
+El área Legal de SolvNet SaaS, en coordinación con IT, gestiona el cumplimiento de las licencias de software utilizado en la empresa. El incumplimiento de licencias de software puede acarrear consecuencias legales y económicas significativas, incluyendo demandas civiles y la obligación de pagar daños y perjuicios.
+
+Proceso de auditoría de licencias:
+IT realiza una auditoría de licencias de software dos veces al año utilizando la herramienta de gestión de activos integrada en el MDM corporativo. El resultado de la auditoría es revisado por Legal para identificar posibles brechas de cumplimiento. Las brechas detectadas se remedian con la adquisición de las licencias faltantes dentro de los 30 días de identificadas.
+
+Software open source en productos de SolvNet:
+SolvNet mantiene un registro de todos los componentes open source incorporados en su plataforma, incluyendo la licencia de cada componente y las obligaciones que impone. Legal revisa anualmente este registro con el equipo de Ingeniería para verificar el cumplimiento de las condiciones de las licencias, en particular:
+- Licencias MIT, BSD, Apache 2.0: permiten uso comercial y modificación sin mayores restricciones, solo requieren incluir el aviso de copyright original.
+- Licencias LGPL: permiten el uso como librería sin afectar el código propietario, con condiciones específicas sobre las modificaciones a la librería.
+- Licencias GPL v2/v3: el uso en productos con código propietario es muy restrictivo. Su incorporación requiere análisis caso a caso por parte de Legal y decisión del CTO.
+- Licencias AGPL: las más restrictivas para SaaS, ya que el uso en red también activa las obligaciones de copyleft. Están prohibidas sin aprobación expresa de Legal y el Directorio.
+
+=========================================
+9. GESTIÓN DE ACUERDOS CON SOCIOS Y ALIANZAS
+=========================================
+
+SolvNet SaaS desarrolla alianzas comerciales con empresas complementarias para ampliar su oferta de valor y su alcance de mercado. Los acuerdos de partnership son gestionados por el área Comercial con revisión obligatoria de Legal antes de la firma.
+
+Tipos de acuerdos de partnership utilizados:
+- Acuerdo de Referidos (Referral Agreement): para socios que generan leads a cambio de una comisión por cierre. Define las condiciones de la comisión, el plazo de vigencia del crédito por referido y las obligaciones de confidencialidad de ambas partes.
+- Acuerdo de Reventa (Reseller Agreement): para socios que comercializan SolvNet a sus propios clientes finales bajo su marca o como parte de una solución integrada. Define los descuentos, las mínimas de compra, las condiciones de soporte y las restricciones de distribución geográfica.
+- Acuerdo de Integración Tecnológica (Technology Partnership): para socios cuyas plataformas se integran técnicamente con SolvNet. Define la responsabilidad sobre los datos compartidos, los SLAs de la integración y los derechos de uso de las APIs.
+- Acuerdo de Co-Marketing: para acciones conjuntas de marketing y comunicación. Define los derechos de uso de marcas, el reparto de costos y la aprobación conjunta de materiales.
+
+Todos los acuerdos de partnership tienen una vigencia de 1 año con renovación automática salvo notificación de no renovación con 60 días de anticipación. Las condiciones de terminación anticipada están definidas en cada acuerdo.
+
+=========================================
+10. NORMATIVA APLICABLE A OPERACIONES INTERNACIONALES
+=========================================
+
+SolvNet SaaS presta servicios a clientes en varios países de América Latina y, en menor medida, en Europa. Las operaciones internacionales generan obligaciones legales y regulatorias específicas que el área Legal monitorea y gestiona.
+
+Exportación de servicios:
+La prestación de servicios SaaS a clientes del exterior se encuadra como exportación de servicios en la normativa argentina del BCRA y de AFIP. SolvNet debe ingresar al país el 100% de las divisas provenientes de las exportaciones de servicios dentro de los plazos establecidos por el BCRA, salvo las excepciones vigentes. Legal y Finanzas coordinan el cumplimiento de estos requisitos.
+
+Protección de datos en operaciones internacionales:
+Las transferencias internacionales de datos personales desde Argentina deben cumplir con la Ley 25.326 y las disposiciones de la AAIP. Las transferencias a países que no cuentan con nivel adecuado de protección requieren la implementación de salvaguardas adicionales como cláusulas contractuales tipo o la obtención del consentimiento explícito del titular.
+
+Para clientes europeos, SolvNet actúa como encargado del tratamiento bajo el GDPR y firma el correspondiente DPA. Legal mantiene actualizado el modelo de DPA según las Cláusulas Contractuales Tipo (CCT) aprobadas por la Comisión Europea y lo revisa ante cada modificación normativa relevante.
+
+Resolución de disputas internacionales:
+Los contratos con clientes internacionales establecen la ley aplicable (generalmente la ley argentina para clientes latinoamericanos y la ley inglesa para clientes europeos y norteamericanos) y el fuero de resolución de disputas (arbitraje internacional bajo reglas de la CCI o UNCITRAL para contratos de mayor valor; mediación seguida de fuero local para contratos menores).
+
+=========================================
+11. GESTIÓN DE SEGUROS CORPORATIVOS
+=========================================
+
+Legal, en coordinación con Finanzas, gestiona el portfolio de seguros corporativos de SolvNet. Los seguros vigentes son revisados anualmente para garantizar que la cobertura esté adecuada al tamaño y perfil de riesgo de la empresa.
+
+Seguros corporativos vigentes:
+- Seguro de Responsabilidad Civil General: cubre daños a terceros causados por las actividades de SolvNet.
+- Seguro de Responsabilidad Civil Profesional (Errors & Omissions): cubre reclamaciones de clientes por errores u omisiones en la prestación del servicio SaaS. Cobertura de hasta USD 2 millones por siniestro.
+- Seguro Cyber (Cyber Liability): cubre pérdidas derivadas de incidentes de ciberseguridad, incluyendo costos de respuesta a incidentes, notificación a afectados, multas regulatorias y reclamaciones de terceros. Cobertura de hasta USD 3 millones.
+- Seguro D&O (Directors & Officers): protege a los directores y gerentes de SolvNet ante reclamaciones personales por decisiones tomadas en el ejercicio de sus funciones.
+- Seguro de Caución: garantía para contratos con clientes que lo requieren.
+- ART (Aseguradora de Riesgos del Trabajo): obligatoria por ley para todos los empleados en relación de dependencia.
+
+Ante un siniestro que pueda activar cualquiera de estas coberturas, el área Legal debe ser notificada de inmediato para coordinar el reporte a la aseguradora dentro de los plazos establecidos en la póliza. La demora en la notificación puede dar lugar a la caducidad del derecho a la cobertura.
+
+=========================================
+12. POLÍTICA ANTITRUST Y COMPETENCIA DESLEAL
+=========================================
+
+SolvNet SaaS cumple con la Ley 27.442 de Defensa de la Competencia y las normativas equivalentes de los países donde opera. Legal es responsable de capacitar a los empleados en posiciones comerciales sobre las conductas prohibidas por la normativa de competencia y de asesorar ante situaciones de riesgo.
+
+Conductas prohibidas bajo las normas de competencia:
+- Acuerdos con competidores sobre precios, condiciones comerciales, reparto de mercados o clientes
+- Intercambio de información comercialmente sensible con competidores (precios, costos, estrategias, pipelines)
+- Prácticas de precios predatorios orientados a eliminar competidores del mercado
+- Condicionamiento de ventas a la adquisición de productos o servicios no deseados (ventas atadas)
+- Abuso de posición dominante si SolvNet alcanzara dicha posición en un mercado relevante
+
+Los empleados que participen en eventos de la industria, asociaciones sectoriales o cualquier instancia de contacto con competidores deben evitar toda conversación sobre precios, estrategias comerciales o condiciones de mercado. Ante cualquier duda sobre si una conducta puede ser problemática bajo las normas de competencia, deben consultar a Legal antes de actuar.
+
+La violación de las normas de competencia puede implicar multas significativas tanto para la empresa como para los individuos involucrados, además de daño reputacional. SolvNet tiene tolerancia cero ante conductas anticompetitivas.
+
+=========================================
+13. GESTIÓN DOCUMENTAL Y ARCHIVO LEGAL
+=========================================
+
+El área Legal mantiene un sistema de gestión documental que permite el almacenamiento, búsqueda y recuperación eficiente de todos los documentos legales de SolvNet. La plataforma utilizada es iManage, integrada con SharePoint para documentos de acceso más amplio.
+
+Clasificación de documentos legales:
+- Documentos societarios: estatutos, actas de directorio y asamblea, poderes notariales. Conservación: permanente.
+- Contratos vigentes: accesibles en el sistema por tipo de contrato, contraparte y fecha de vencimiento. Alertas automáticas de renovación con 90 días de anticipación.
+- Contratos vencidos: archivados por 10 años desde la fecha de extinción del contrato.
+- Documentación judicial: conservada durante la vigencia del proceso más 5 años desde la sentencia firme.
+- Documentación regulatoria: conservada según los plazos establecidos por cada organismo de control.
+
+Control de versiones contractuales:
+Todos los contratos pasan por un proceso de control de versiones en Legal. Cada borrador tiene un número de versión y una fecha. La versión ejecutada (firmada) se marca como "FINAL EJECUTADO" y se archiva junto con las evidencias de firma. Las versiones borrador se conservan por 2 años para documentar el historial de la negociación.
+
+El sistema de gestión documental envía alertas automáticas al responsable Legal asignado ante: vencimientos de contratos (90, 60 y 30 días antes), plazos para ejercer opciones contractuales, y plazos de respuesta a notificaciones judiciales o regulatorias. El responsable debe confirmar la recepción de la alerta en el sistema.
+
+=========================================
+14. POLÍTICA DE REGALOS Y ATENCIONES CORPORATIVAS
+=========================================
+
+SolvNet SaaS tiene una política explícita sobre la recepción y entrega de regalos y atenciones en el contexto de relaciones comerciales. Esta política busca prevenir situaciones de conflicto de interés, soborno o influencia indebida en las decisiones de negocio.
+
+Recepción de regalos por parte de empleados:
+Los empleados pueden aceptar regalos de clientes, proveedores o socios únicamente cuando su valor no supere el equivalente a USD 50 por regalo y USD 100 acumulados por año provenientes del mismo tercero. Los regalos que superen estos límites deben ser devueltos cortésmente o entregados a HR para sorteo o donación. Los regalos en efectivo o equivalentes (tarjetas de regalo, bonos) están prohibidos en cualquier monto.
+
+Entrega de regalos a terceros:
+Los empleados que entreguen regalos o realicen invitaciones a clientes, proveedores o funcionarios públicos en representación de SolvNet deben registrarlo en el formulario de regalos corporativos disponible en el portal Legal. Los regalos a funcionarios públicos están sujetos a restricciones adicionales según la normativa anticorrupción vigente y deben ser aprobados por el Director Legal caso a caso.
+
+Invitaciones a eventos y entretenimiento:
+Las invitaciones a eventos (cenas de negocio, eventos deportivos, conferencias) son aceptables cuando tienen propósito de negocio claro y su valor es razonable. Las invitaciones que incluyan viajes o alojamiento requieren aprobación del N+2 del empleado invitado. Los empleados deben reportar cualquier invitación cuyo valor supere los USD 200 aunque decidan rechazarla.
+
+=========================================
+15. INDICADORES Y MÉTRICAS DEL ÁREA LEGAL
+=========================================
+
+El área Legal de SolvNet produce reportes periódicos sobre el estado de sus principales actividades para brindar visibilidad al Directorio y al equipo directivo sobre el perfil de riesgo legal de la empresa.
+
+Métricas de contratos:
+- Contratos nuevos firmados por mes: seguimiento del volumen de actividad contractual
+- Tiempo promedio de revisión de contratos: objetivo < 3 días hábiles para contratos estándar
+- Contratos próximos a vencer en los siguientes 90 días: revisión mensual para gestión proactiva de renovaciones
+- Contratos con condiciones no estándar: seguimiento del porcentaje sobre el total firmado
+
+Métricas de litigios y disputas:
+- Número de litigios activos: seguimiento mensual
+- Monto total de contingencias provisionadas: reporte al Directorio
+- Litigios cerrados en el período: con resultado favorable o desfavorable y análisis de causas
+- Tiempo promedio de resolución de disputas: para evaluar la eficacia de la estrategia de resolución
+
+Métricas de cumplimiento:
+- Solicitudes de derechos ARCO recibidas y respondidas: cumplimiento del plazo legal de 30 días
+- Incidentes de seguridad con impacto en datos personales: número y severidad
+- Capacitaciones de compliance completadas: porcentaje de empleados que completaron los módulos obligatorios
+- Auditorías regulatorias o inspecciones recibidas: número y resultado
+
+El reporte trimestral de Legal al Directorio incluye un semáforo de riesgo legal por categoría (contractual, laboral, regulatorio, propiedad intelectual, litigios) que permite al Directorio tener una visión rápida del estado del perfil de riesgo de la empresa y tomar decisiones informadas sobre recursos y prioridades del área.
